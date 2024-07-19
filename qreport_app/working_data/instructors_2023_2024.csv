@@ -1,0 +1,3220 @@
+course_id,instructor,instructor_rating
+20,Glenda Carpio,5.0
+21,Carla Martin,4.82
+4,Jamaica Kincaid,5.0
+5,Carla Martin,4.63
+7,Roberto Mangabeira Unger,
+7,John Stauffer,
+9,Ingrid Monson,4.78
+11,Timothy Ogene,4.82
+13,Evelyn Higginbotham,4.67
+14,Jacob Olupona,4.0
+17,Jesse McCarthy,4.4
+18,Henry Gates,4.78
+23,John Mugane,5.0
+1063,,4.83
+1231,,4.5
+1252,,5.0
+1539,,4.6
+1931,,5.0
+2001,Taiwo Ehineni,5.0
+2001,,5.0
+2006,,4.93
+108,Solsire Cusicanqui Marsano,4.8
+109,E. Gabriella Coleman,4.13
+111,Damina Khaira,
+79,Sarah Hlubik,3.33
+80,Amy Clark,
+81,Matt Liebmann,4.4
+84,Patricia Capone,4.36
+84,Diana Loren,4.36
+85,Solsire Cusicanqui Marsano,4.75
+86,David L. Carrasco,4.9
+86,Arthur Kleinman,4.9
+86,Stephanie Paulsell,4.9
+88,Julia Fierman,5.0
+90,Julia Fierman,4.86
+92,Lucien Castaing-Taylor,4.0
+92,Verena Paravel,4.0
+93,Lucien Castaing-Taylor,5.0
+93,Verena Paravel,5.0
+94,Damina Khaira,4.83
+95,Andrea Wright,4.75
+97,Jason Ur,4.43
+99,Rowan Flad,4.83
+101,Amy Clark,
+102,Jason Silverstein,4.38
+104,E. Gabriella Coleman,4.75
+105,Arthur Kleinman,4.4
+106,Lindsey Zeve,4.13
+107,,5.0
+107,,4.2
+114,Chris Gumb,
+114,Pavlos Protopapas,4.25
+114,Alex Young,4.25
+116,Simson Garfinkel,3.8
+116,Michael Smith,3.8
+117,Boris Kozinsky,4.46
+119,Weiwei Pan,4.21
+139,Cengiz Pehlevan,4.09
+122,Robert Howe,3.43
+124,Margo Levine,3.96
+125,Adam Hesterberg,3.58
+126,Sarah Iams,3.94
+128,Michael Brenner,3.88
+129,Eli Tziperman,4.35
+135,Melanie Weber,3.86
+137,Demba Ba,4.39
+138,Na Li,4.25
+151,Robert Haussman,3.38
+151,Doeke Hekstra,
+151,Eric Mazur,3.38
+143,Boris Kozinsky,4.46
+144,Giulia Semeghini,4.2
+147,David Bell,4.0
+148,Subir Sachdev,4.05
+26,Maria Gamboa,4.33
+27,Katarina Burin,4.82
+56,Matt Saunders,
+59,Annette Lemieux,4.63
+61,Patrice Helmar,5.0
+64,Robb Moss,5.0
+67,Ruth Lingford,
+68,Ruth Lingford,
+68,Alain Viel,4.78
+72,Joana Pimenta,3.73
+73,Sharon Harper,3.38
+25,Dan Byers,4.71
+29,Kianja Strobert,4.44
+30,Annette Lemieux,4.0
+31,Kianja Strobert,4.78
+32,chukwumaa --,4.5
+35,Patrice Helmar,4.57
+37,Alain Gomis,4.5
+39,Alfred Guzzetti,4.5
+41,Joana Pimenta,5.0
+42,Lucien Castaing-Taylor,4.0
+42,Verena Paravel,4.0
+43,Lucien Castaing-Taylor,5.0
+43,Verena Paravel,5.0
+44,Sky Hopinka,4.4
+46,John Stilgoe,4.82
+47,John Stilgoe,
+48,Aily Nash,
+49,Haden Guest,5.0
+52,Stephen Prina,4.0
+53,Aily Nash,
+55,Jennifer L. Roberts,4.83
+55,Matt Saunders,
+172,Gerhard Sonnert,4.68
+164,John Johnson,3.95
+171,Irwin Shapiro,3.57
+162,Edo Berger,2.67
+168,Lars Hernquist,
+169,Ashley Villar,3.95
+205,Nancy Long Sieber,3.63
+205,Kristopher Sarosiek,3.63
+186,David Mooney,
+187,Linsey Moyer,
+188,Jia Liu,4.33
+189,Maurice Smith,4.21
+191,Martha Bulyk,
+191,Christopher Smillie,3.17
+191,Peter Sorger,3.17
+191,Shamil Sunyaev,3.17
+192,Vassilios Bezzerides,
+192,,4.22
+192,Lucas Farnung,4.22
+192,,4.22
+192,Sahand Hormoz,4.22
+192,Joseph Loparo,
+192,Wesley Wong,4.22
+194,Rui Wang,4.55
+196,Georg Hahn,4.0
+198,Rajarshi Mukherjee,4.78
+199,L. Wei,
+201,Nima Hejazi,3.18
+202,Eric Franzosa,3.56
+202,Kelsey Thompson,3.56
+214,Joseph Nagy,4.48
+353,Monique Brewster,3.5
+353,Dominic Mao,3.5
+233,Richard Liu,4.08
+238,Brian Liau,3.72
+238,Sirinya Matchacheep,3.72
+242,Theodore Betley,3.57
+219,Heidi Vollmer-Snarr,4.89
+223,Daniel Nocera,
+226,Xiaowei Zhuang,
+227,Khaled Abdelazim,4.92
+228,Suyang Xu,
+230,Christina Woo,4.46
+231,Emily Balskus,4.21
+235,Joonho Lee,5.0
+237,Shao-Liang Zheng,4.0
+241,,4.17
+1590,Frank Keutsch,3.05
+1590,Gregory Tucci,
+1590,Lu Wang,3.05
+267,Emily Greenwood,4.83
+275,Kathleen Coleman,4.11
+268,Emma Dench,
+268,Paul Kosmin,4.5
+270,Irene Soto Marin,3.67
+272,Jan Ziolkowski,4.8
+273,Paul Kosmin,4.89
+1025,,
+1021,,5.0
+1023,Gregory Nagy,4.75
+1283,Ivy Livingston,4.43
+1281,Rachel Love,
+1417,,4.43
+1426,Calliopi Dourou,5.0
+292,Annette Lienau,4.42
+276,Annette Lienau,4.71
+277,Saul Zaritt,4.5
+280,Luke Leafgren,3.5
+281,Gregory Nagy,
+282,Saul Zaritt,3.59
+284,Jeffrey Schnapp,4.44
+286,Panagiotis Roilos,3.8
+287,Karen Thornber,4.5
+288,Verena Conley,4.38
+290,Junting Huang,3.83
+320,Michael Mitzenmacher,3.28
+320,Rebecca Nesson,3.28
+344,Kitty Ascrizzi,4.32
+344,Michael Smith,
+347,David Malan,4.41
+347,Carter Zenke,4.41
+347,Yuliia Zhukovets,
+347,David Malan,4.23
+347,,4.23
+347,Yuliia Zhukovets,4.23
+347,,4.13
+347,Carter Zenke,4.13
+347,Yuliia Zhukovets,
+347,David Malan,3.67
+347,Carter Zenke,3.67
+347,Yuliia Zhukovets,
+348,Stuart Shieber,3.11
+348,Brian Yu,3.11
+348,Stuart Shieber,3.6
+348,Brian Yu,3.6
+296,Chris Gumb,
+296,Pavlos Protopapas,4.25
+296,Alex Young,4.25
+299,Kitty Ascrizzi,3.61
+299,Sitan Chen,3.61
+299,Madhu Sudan,
+301,Yiling Chen,4.47
+303,Vijay Janapa Reddi,4.08
+304,Minlan Yu,4.0
+305,David Brooks,4.36
+306,Gage Hills,
+307,Nada Amin,
+309,Eddie Kohler,4.79
+312,Steven Gortler,3.97
+313,Elena Glassman,
+314,David Alvarez-Melis,3.33
+314,Finale Doshi-Velez,
+318,Harry Lewis,4.38
+319,Karen Brennan,
+321,Ignacio Becker Troncoso,2.82
+321,Boris Kozinsky,
+323,Cynthia Dwork,3.72
+326,Ariel Procaccia,4.78
+329,David Brooks,4.36
+330,Gage Hills,
+333,Stephen Chong,4.35
+334,James Mickens,4.71
+335,Stratos Idreos,4.75
+336,Johanna Beyer,3.71
+337,Krzysztof Gajos,4.32
+341,Milind Tambe,3.05
+343,John Girash,4.2
+343,Martin Wattenberg,4.2
+377,Steven Wofsy,4.11
+377,Bryan Yoon,4.11
+374,David Johnston,4.5
+375,Rebecca Fischer,4.67
+376,Nadja Drabon,4.43
+376,Javier Ortega-Hernandez,4.43
+378,Chloe Anderson,3.67
+378,Esther James,3.67
+356,Eli Tziperman,4.46
+359,Scot Martin,
+360,Roger Fu,5.0
+361,Eli Tziperman,5.0
+362,Daniel Jacob,4.63
+363,Peter Huybers,4.0
+364,Elsie Sunderland,
+366,Ann Pearson,4.6
+368,Roger Fu,5.0
+369,Peter Huybers,4.0
+370,John Shaw,5.0
+371,Ann Pearson,4.6
+1760,Jeremy Bloxham,4.76
+1760,Brendan Meade,4.76
+257,Fangzheng Zhang,
+257,Fangzheng Zhang,4.86
+257,Fangzheng Zhang,4.77
+257,Fangzheng Zhang,4.8
+257,Fangzheng Zhang,
+245,Ying-Chieh Wang,5.0
+245,Ying-Chieh Wang,4.89
+245,Ying-Chieh Wang,4.67
+246,Landon (Yuxiao) Du,
+246,Landon (Yuxiao) Du,5.0
+246,Landon (Yuxiao) Du,4.82
+248,Bin Yang,4.67
+248,Bin Yang,4.44
+248,Bin Yang,5.0
+250,Shunan Yang,
+250,Shunan Yang,5.0
+253,Xiaocheng Chen,4.67
+254,Jing Cai,4.4
+255,Jennifer Li-Chia Liu,4.8
+255,David Wang,
+260,Thomas Kelly,
+262,Thomas Kelly,4.58
+263,David Wang,5.0
+379,Alexander Zahlten,4.73
+389,Shigehisa Kuriyama,4.0
+390,Daniel Koss,4.63
+382,Ryuichi Abe,4.73
+383,Ryuichi Abe,4.8
+384,Shigehisa Kuriyama,
+385,Daniel Koss,4.88
+388,Si Nae Park,4.33
+1264,Yuki Sakomura,4.82
+1264,Yuki Sakomura,4.71
+1255,Chikako Takehara,5.0
+1255,Chikako Takehara,4.9
+1257,Mihoko Yagi,4.8
+1257,Mihoko Yagi,5.0
+1259,Naomi Asakura,5.0
+1259,Naomi Asakura,5.0
+1261,Naomi Asakura,5.0
+1265,David Howell,5.0
+1266,Tomiko Yoda,4.83
+1268,David Atherton,5.0
+1275,Hi-Sun Kim,4.57
+1275,Hi-Sun Kim,4.46
+1275,Hwanhee Kim,4.78
+1271,Ahsil Noh,4.23
+1273,Hwanhee Kim,4.6
+1981,Hoa Le,5.0
+1981,Hoa Le,5.0
+1978,Hoa Le,5.0
+407,Anne Le Brun,3.91
+409,Jason Furman,4.12
+409,David Laibson,4.12
+409,David Martin,4.12
+483,Gregory Bruich,4.28
+483,Raj Chetty,4.28
+486,Thomas Baranga,
+486,,4.78
+486,,
+486,Patrick Power,3.83
+486,,4.43
+486,James Rice,4.43
+486,Mattia Landoni,4.8
+486,,4.8
+486,Cirrus Foroughi,4.8
+486,,
+486,Cirrus Foroughi,4.88
+486,,4.88
+486,Danielle Graves,4.44
+486,,4.44
+486,,4.6
+486,Ethan Matlin,4.6
+486,John Felter,4.33
+486,,
+486,John Felter,
+486,,4.67
+486,Katarina Fedorov,4.0
+486,Anne Le Brun,4.0
+486,,4.83
+486,Andres Maggi,4.83
+486,,4.29
+486,Jinying Wang,4.29
+486,Laura-Thorne Kincaide,4.0
+486,,4.0
+486,,4.14
+486,Miaomiao Zhang,
+487,Claudia Goldin,4.36
+487,Lawrence Katz,4.36
+488,Robert Barro,3.75
+489,Amanda Pallais,4.67
+492,Jeremy Stein,4.75
+494,Kiran Gajwani,4.91
+494,,4.75
+494,Paul Willen,4.75
+494,Gregory Bruich,5.0
+494,,5.0
+494,Matthew Basilico,4.0
+494,,4.0
+494,Anwesha Bhattacharya,4.78
+494,,4.78
+494,,4.2
+494,Leslie Sheng Shen,5.0
+494,,4.8
+494,Michal Kowalik,4.8
+392,Marc Melitz,3.63
+394,Christopher Foote,3.66
+396,Adrien Bilal,3.39
+396,Gabriel Chodorow-Reich,3.39
+397,Roland Fryer,4.23
+400,Judd Cramer,4.15
+401,Robert Neugeboren,3.55
+411,Gregory Bruich,3.97
+413,Melissa Dell,4.06
+416,Andrei Shleifer,5.0
+419,Robert Barro,3.83
+419,Rachel McCleary,3.83
+423,Myrto Kalouptsidi,4.1
+424,Robert Stavins,3.56
+425,Xavier Gabaix,
+427,Karen Dynan,4.43
+428,Jeremy Stein,4.53
+429,Richard Freeman,4.0
+432,Jesse Shapiro,5.0
+434,Jerry Green,3.65
+434,Tomasz Strzalecki,
+436,Adrien Bilal,4.42
+436,Xavier Gabaix,4.42
+438,Christopher Avery,
+438,Samuel Richardson,3.63
+442,Oliver Hart,4.57
+444,Will Dobbie,4.0
+446,Dmitry Arkhangelskiy,
+448,Davide Viviano,4.88
+449,Vincent Pons,5.0
+449,Jesse Shapiro,5.0
+450,Claudia Goldin,
+450,Lawrence Katz,5.0
+452,Melissa Dell,
+454,Xavier Gabaix,4.29
+456,Gabriel Chodorow-Reich,4.14
+459,Raj Chetty,4.0
+460,David Cutler,4.86
+464,Ariel Pakes,4.14
+467,Shai Bernstein,3.91
+467,Josh Lerner,3.91
+468,Samuel Hanson,
+468,Adi Sunderam,4.8
+470,Amanda Pallais,
+476,Melissa Dell,4.63
+477,Marcella Alsan,1.0
+477,David Cutler,5.0
+479,Melissa Dell,4.0
+479,Claudia Goldin,1.0
+481,,
+481,,
+481,,
+499,Paul Harris,4.67
+500,Beth Simpson,4.71
+501,Nadine Gaab,4.5
+502,Christina Villarreal,4.5
+504,Liao Cheng,4.9
+505,Rebecca Horwitz-Willis,5.0
+506,Nicole Simon,4.6
+560,Pia Sorensen,4.67
+577,Marko Loncar,4.08
+579,Seymur Hasanov,3.22
+581,George Clay,4.52
+581,Josh Lerner,4.52
+581,Richard Bennett,4.66
+581,Spencer Rascoff,4.66
+583,Paul Bottino,4.58
+585,Chris Lombardo,3.75
+585,Gu-Yeon Wei,3.75
+585,Fawwaz Habbal,3.67
+585,Samir Mitragotri,
+522,Katia Bertoldi,2.81
+522,Benjamin Brown,2.81
+522,Anas Chalah,2.81
+522,Leonardo Gomez,2.81
+522,Melissa Hancock,2.81
+522,Seymur Hasanov,2.81
+522,Elaine Kristant,
+522,Chris Lombardo,2.81
+522,Mohammad Souri,2.81
+522,Bryan Yoon,2.81
+524,Chris Lombardo,4.38
+525,Scot Martin,
+526,Michael Brenner,3.88
+527,Joost Vlassak,3.38
+528,Zachary Schiffer,4.17
+530,Katia Bertoldi,
+531,Alexandros Haridis,4.14
+533,Todd Zickler,4.11
+534,Yue Lu,4.48
+535,Evelyn Hu,4.71
+538,Flavio Calmon,
+543,Kiyoul Yang,4.64
+545,Frans Spaepen,3.67
+546,Xin Li,4.38
+548,David Clarke,4.0
+549,Philippe Cluzel,4.13
+551,Demba Ba,4.39
+552,Na Li,4.25
+557,Shriya Srinivasan,3.69
+557,Conor Walsh,3.69
+558,Katia Bertoldi,
+559,David Mooney,
+562,Maurice Smith,4.21
+563,Chuck Hoberman,4.57
+564,Heng Yang,4.71
+565,Jia Liu,4.33
+568,Federico Capasso,3.75
+570,Kiyoul Yang,4.64
+573,Alan Maccormack,
+573,Russell J Wilcox,
+575,Suzanne Smith,
+576,Woodward Yang,4.0
+638,Claire Messud,
+639,Musa Syeed,4.5
+641,Laura van den Berg,5.0
+642,Tracy K. Smith,4.57
+645,Teju Cole,4.38
+648,Laura van den Berg,5.0
+649,Claire Messud,5.0
+652,Rachel Kaadzi Ghansah,4.6
+654,Heidi Schreck,4.86
+657,Louisa Thomas,4.8
+659,Musa Syeed,5.0
+660,Melissa Cundieff,
+662,Melissa Cundieff,5.0
+664,Darcy Frey,4.88
+664,Darcy Frey,4.89
+665,Paul Yoon,4.63
+666,Jorie Graham,
+668,Paul Yoon,5.0
+670,Valeria Luiselli,4.71
+611,Deidre Lynch,4.38
+623,Jesse McCarthy,
+627,David Levine,4.6
+634,Daniel Donoghue,3.75
+634,Sarah Dimick,4.5
+635,Elinor Hitt,5.0
+635,,5.0
+635,Katherine Horgan,5.0
+635,,4.0
+635,Karina Mathew,4.0
+635,,4.0
+587,Anna Wilson,4.71
+588,Alan Niles,4.6
+589,Gordon Teskey,4.38
+591,Tara Menon,4.85
+592,Vidyan Ravinthiran,5.0
+593,Beth Blum,4.77
+594,John Stauffer,
+595,Tracy K. Smith,4.73
+596,Namwali Serpell,4.84
+597,Philip Fisher,4.62
+598,Nicholas Watson,4.57
+599,Stephanie Burt,3.47
+601,James Wood,4.58
+604,Peter Sacks,4.8
+606,Vidyan Ravinthiran,4.54
+608,Maria Dikcis,4.65
+613,Leah Whittington,4.75
+615,Henry Gates,4.63
+616,Stephanie Burt,
+617,Homi Bhabha,4.57
+619,Deidre Lynch,5.0
+620,Christopher Pexa,
+621,Gordon Teskey,4.83
+682,Steven Wofsy,4.11
+682,Bryan Yoon,4.11
+672,Eli Tziperman,4.46
+675,Eli Tziperman,5.0
+676,Daniel Jacob,4.63
+678,Elsie Sunderland,
+687,Elaine Buckberg,3.8
+691,George Baker,4.52
+683,Carrie Jenks,
+684,Ken Thomas,4.0
+685,Kari Nadeau,4.94
+510,Eric Henson,4.0
+516,Americo Mendoza-Mori,3.73
+517,Americo Mendoza-Mori,4.26
+518,Leslie Fernandez,5.0
+519,Leslie Fernandez,4.88
+520,Soham Patel,4.95
+521,Jacinda Tran,
+508,Eleanor Craig,4.55
+509,Mandy Izadi,
+695,Sheza Alqera,4.53
+695,Sheza Alqera,4.07
+695,Katie Baca,4.38
+695,Douglas Bafford,4.0
+695,Douglas Bafford,4.18
+695,Collier Brown,4.38
+695,Vivien Chung,3.5
+695,Vivien Chung,
+695,Matthew Cole,3.75
+695,Matthew Cole,3.91
+695,Samuel Garcia,4.3
+695,Samuel Garcia,3.89
+695,J. Gregory Given,4.58
+695,Alexandra Gold,4.73
+695,Alexandra Gold,4.8
+695,Ethan Goldberg,4.36
+695,Ethan Goldberg,4.13
+695,James Herron,4.77
+695,Eliza Holmes,4.36
+695,Eliza Holmes,
+695,Isabel Lane,
+695,Isabel Lane,4.0
+695,Ross Martin,4.87
+695,Ross Martin,4.8
+695,Keating McKeon,4.9
+695,Keating McKeon,4.62
+695,Rachel Meyer,3.64
+695,Ryan Napier,3.91
+695,Ryan Napier,4.33
+695,Brian Pietras,
+695,Brian Pietras,4.0
+695,Kelsey Quigley,4.75
+695,Kelsey Quigley,4.56
+695,Emilie Raymer,4.46
+695,Emilie Raymer,4.45
+695,Jane Rosenzweig,4.63
+695,Adam Scheffler,4.45
+695,Adam Scheffler,3.82
+695,Ian Shank,4.71
+695,Ian Shank,4.64
+695,Gillian Sinnott,4.63
+695,Stephen Spencer,3.56
+695,Stephen Spencer,3.67
+695,Tracy Strauss,4.71
+695,Tracy Strauss,3.8
+695,Elliott Turley,
+695,Elliott Turley,4.6
+695,Rob Willison,4.82
+695,Rob Willison,3.8
+695,Mande Zecca,4.64
+695,Mande Zecca,
+695,Tad Davies,4.25
+695,Margaret Deli,3.2
+695,Margaret Deli,4.13
+695,Jodi Johnson,4.5
+695,Jonah Johnson,4.5
+695,Hannah Kauders,4.17
+695,Hannah Kauders,5.0
+695,Taleen Mardirossian,
+695,Taleen Mardirossian,4.67
+695,Ben Parson,4.5
+695,Ben Parson,4.75
+695,John Sampson,4.71
+695,John Sampson,
+695,Peter Vilbig,5.0
+695,Peter Vilbig,4.14
+695,Patricia Bellanca,4.0
+697,Erika Bailey,5.0
+697,Kate Clarke,5.0
+697,Nicholas Coburn-Palo,4.88
+697,Nicholas Coburn-Palo,
+697,Terry Gipson,
+697,Terry Gipson,4.92
+697,James Montano,4.69
+697,James Montano,4.92
+697,Zachary Stuart,5.0
+697,Zachary Stuart,5.0
+726,Abraham Loeb,4.5
+733,Jerome Groopman,4.83
+736,Nancy Etcoff,3.89
+738,Laura Prager,4.67
+749,Carol Oja,4.75
+756,James Hanken,5.0
+757,Oliver Hart,4.92
+763,Aravinthan Samuel,4.6
+766,Hongkun Park,
+771,Norman Yao,5.0
+773,Daniel Kahne,4.71
+773,Sien Verschave,4.71
+774,Gojko Barjamovic,5.0
+783,Phillip Howze,4.0
+793,Tomiko Brown-Nagin,4.8
+796,Susan Block,4.42
+797,Elhanan Helpman,3.91
+807,Susanna Rinard,
+808,Shai Dromi,5.0
+702,Sarah Craycraft,5.0
+699,Sarah Craycraft,3.92
+700,Felicity Lufkin,4.56
+811,Melani Cammett,3.89
+812,Ambrogio Camozzi Pistoja,3.33
+814,Lucas Stanczyk,3.81
+818,Sarah Lewis,4.45
+819,Christopher Robichaud,
+821,Bridget Alex,4.27
+821,Daniel Lieberman,4.27
+823,Philip Sadler,4.54
+824,Charles Czeisler,4.1
+824,Frank Scheer,
+827,Joshua Greene,4.02
+829,Edward Hall,
+832,Stephanie Sandler,3.69
+834,David Holland,4.43
+835,Sue Goldie,4.34
+836,Steven Pinker,3.61
+837,William Kirby,4.09
+838,Dimitar Sasselov,3.63
+844,Jinah Kim,3.83
+844,Eugene Wang,
+849,Brendan Meade,4.83
+853,Eric Heller,3.86
+854,Rachel Love,3.78
+855,Alyssa Goodman,3.31
+856,Robin Bernstein,4.39
+858,Orlando Patterson,3.32
+860,Christina Davis,3.83
+862,Venkatesh Murthy,4.1
+867,Michael McElroy,4.14
+870,Maria Gough,3.77
+870,David Joselit,3.77
+870,Ewa Lajer-Burcharth,3.77
+871,Kaighin McColl,4.64
+872,Sven Beckert,4.06
+873,Jay Harris,3.43
+877,Naomi Weiss,4.35
+879,Jenny Carballo,3.77
+880,Elizabeth Lunbeck,4.39
+882,Annabel Kim,4.13
+884,Beth Blum,4.17
+885,Logan McCarty,
+885,Christopher Stubbs,3.83
+886,Elizabeth City,4.69
+887,L Mahadevan,4.25
+893,,5.0
+894,,4.88
+894,,4.38
+901,,4.8
+902,,4.5
+902,,4.33
+896,,5.0
+898,,
+903,,4.86
+1759,Agnes Broome,4.73
+905,Jessica Cohen,3.92
+907,Stephanie Kayden,4.22
+907,Michael VanRooyen,4.22
+908,David Cutler,3.83
+908,David Cutler,4.4
+908,David Cutler,5.0
+909,Eric Beerbohm,4.06
+951,Yuhua Wang,3.86
+981,Stephen Chaudoin,
+983,Naijia Liu,4.33
+984,George Soroka,
+985,Michael Rosen,5.0
+989,Nara Dillon,4.43
+991,Jennifer Halen,2.89
+992,Avishay Ben Sasson-Gordis,4.0
+994,Grzegorz Ekiert,
+996,Gabriel Katsh,4.71
+999,Alastair Johnston,4.89
+1000,Connor Jerzak,3.9
+1002,Julie Weaver,4.89
+1003,Mashail Malik,4.75
+1005,Jack Huguley,
+1006,Theda Skocpol,4.6
+1008,Ofrit Liviatan,
+1009,Amy Chandran,
+1012,Arthur Applbaum,4.82
+1014,Shanna Weitz,4.62
+1016,Sparsha Saha,4.75
+1018,Yuhua Wang,4.86
+911,Kanglin Chen,4.6
+912,Chase Harrison,4.0
+914,Roberto Mangabeira Unger,
+915,Emma Saunders-Hastings,4.68
+917,Matthew Landauer,4.44
+918,Roberto Mangabeira Unger,3.89
+919,Alisha Holland,4.65
+920,Sarah Hummel,4.45
+921,Daniel Ziblatt,4.57
+923,Alexandra Vacroux,5.0
+924,Peter Hall,4.43
+925,Arvid Bell,4.65
+926,Grzegorz Ekiert,4.31
+927,Stephen Jones,4.5
+930,Steven Levitsky,4.71
+931,James Snyder,5.0
+932,Sparsha Saha,3.88
+935,Leonie Beyrle,4.35
+935,Latanya Sweeney,
+938,Daniel Carpenter,
+940,Matthew Baum,3.4
+941,Stephen Ansolabehere,
+942,Michael Hiscox,4.55
+945,Jeffrey Friedman,4.33
+946,Michael Hiscox,4.38
+952,Kosuke Imai,4.13
+956,Melani Cammett,4.0
+956,Frances Hagopian,4.0
+957,Connor Jerzak,3.43
+957,Naijia Liu,3.43
+959,Matthew Landauer,4.0
+960,Katrina Forrester,4.33
+960,Michael Rosen,4.33
+961,Torben Iversen,5.0
+961,Yuhua Wang,5.0
+963,Alisha Holland,4.91
+966,Elizabeth Perry,5.0
+968,Stephen Ansolabehere,4.71
+969,Theda Skocpol,5.0
+969,Daniel Ziblatt,5.0
+972,Jeffrey Friedman,4.83
+973,Jeffry Frieden,5.0
+976,Stephen Ansolabehere,4.67
+976,Stephanie Ternullo,4.67
+978,Christina Davis,4.67
+978,Christoph Mikulaschek,3.0
+979,Jeffry Frieden,4.8
+979,Pia Raffler,4.8
+980,,3.5
+980,,3.5
+980,Naijia Liu,3.5
+1225,Mary Beth Landrum,
+1225,Meredith Rosenthal,4.17
+1116,Aaron Bekemeyer,5.0
+1125,Tara Suri,4.46
+1127,Camden Elliott,4.89
+1130,Jesse Hoffnung-Garskof,4.45
+1131,Ian Kumekawa,4.92
+1132,Sage Goodwin,
+1157,Serhii Plokhii,4.56
+1158,Lisa McGirr,4.43
+1161,Erez Manela,4.44
+1162,Ann Blair,4.45
+1163,Maya Jasanoff,4.83
+1164,Lizabeth Cohen,4.3
+1165,Derek Penslar,4.83
+1166,George Aumoithe,
+1168,Carla Heelan,4.71
+1094,Rosie Bsheer,
+1097,Cemal Kafadar,4.28
+1099,Flynn Cratty,4.67
+1101,Gabe Pizzorno,4.22
+1104,David Spreen,4.67
+1105,Fredrik Logevall,4.44
+1106,Lorenzo Bondioli,5.0
+1109,Laura Weinrib,4.89
+1111,Aaron Bekemeyer,
+1119,Peter Gordon,4.75
+1121,Kirsten Weld,4.13
+1129,Arunabh Ghosh,4.53
+1133,Emmanuel Akyeampong,4.6
+1139,Kirsten Weld,4.38
+1140,Tamar Herzog,
+1141,Sven Beckert,
+1142,Sidney Chalhoub,4.2
+1145,Joyce Chaplin,4.71
+1146,Katie Holmes,4.83
+1147,Rebecca Lossin,3.8
+1153,Terry Martin,4.8
+1170,Lilly Havstad,4.83
+1175,Matthew Sohm,
+1185,Patrick Sylvain,
+1186,Steven Biel,4.85
+1187,Jules Riegel,5.0
+1188,Jorge Sanchez Cruz,4.8
+1189,Lauren Kaminsky,5.0
+1191,Laura Quinton,4.86
+1193,Thomas Dichter,4.0
+1028,Patricio del Real,
+1030,Seth Estrin,4.57
+1033,Shawon Kinew,4.07
+1039,Brenda Croft,2.57
+1042,Yukio Lippit,5.0
+1055,Ian Miley,5.0
+1057,Jennifer L. Roberts,4.58
+1059,Isabel Bird,
+1059,Jennifer L. Roberts,
+1061,Carrie Lambert-Beatty,
+1027,Vishal Khandelwal,4.29
+1027,Jinah Kim,4.29
+1027,Gulru Necipoglu-Kafadar,4.29
+1029,Gulru Necipoglu-Kafadar,4.71
+1031,Seth Estrin,5.0
+1037,Ewa Lajer-Burcharth,4.88
+1038,Maria Gough,5.0
+1038,Vishal Khandelwal,
+1044,Suzanne Blier,
+1049,Jeffrey Hamburger,
+1051,Joachim Homann,
+1051,Kate Smith,5.0
+1219,Alex Csiszar,4.21
+1219,Rebecca Lemov,4.21
+1219,Alex Csiszar,4.27
+1219,Rebecca Lemov,
+1221,Rebecca Lemov,4.64
+1221,Simon Torracinta,4.64
+1221,Spencer Weinreich,4.64
+1223,Erik Baker,4.58
+1197,Eram Alam,4.8
+1199,Peter Galison,3.0
+1199,Robb Moss,3.0
+1200,Leslie-William Robinson,4.77
+1204,Matthew Hersch,
+1206,Simon Torracinta,4.71
+1208,Spencer Weinreich,4.6
+1209,Erik Baker,
+1214,Matthew Hersch,4.83
+1215,Sheila Jasanoff,
+1218,Eram Alam,4.43
+1089,Abby Desmond,4.0
+1089,Julie Lawrence,4.0
+1066,Andrew Yegian,
+1067,Kevin Uno,4.86
+1069,Joseph Henrich,4.67
+1073,Kristin Sabbi,4.0
+1074,Andrew Yegian,4.22
+1075,Jo Matott,4.38
+1077,Barbara Horowitz,4.59
+1078,Joyce Benenson,4.83
+1079,Martin Surbeck,4.6
+1080,Erin Hecht,
+1086,Abby Desmond,4.32
+1088,Jo Matott,4.04
+1227,David Armitage,4.11
+1227,Glenda Carpio,4.11
+1227,David Elmer,4.11
+1227,Tara Menon,4.11
+1227,Kelly Rich,4.11
+1227,Namwali Serpell,4.11
+1303,Andrew Bottoms,4.83
+1304,Andrew Bottoms,5.0
+1305,Kathryn Davidson,
+1307,Nozomi Tomita,4.0
+1308,Kathryn Franich,
+1311,Yagmur Sag-Parvardeh,4.75
+1293,C.-T. James Huang,4.75
+1296,Kathryn Franich,
+1297,Yagmur Sag-Parvardeh,
+1300,Kevin Ryan,4.5
+1374,,3.75
+1374,Mario Stipcic,3.75
+1374,,4.25
+1374,Kate Penner,4.25
+1374,,4.09
+1374,Brendan Kelly,4.09
+1374,,4.0
+1374,Matthew Cavallo,4.13
+1374,,4.11
+1374,Mario Stipcic,
+1374,Matthew Cavallo,4.4
+1374,,4.0
+1374,Michael Nathanson,4.0
+1374,,4.27
+1374,,3.4
+1374,Justin Hancock,3.4
+1374,,4.14
+1374,Michael Nathanson,4.14
+1374,,4.25
+1374,Anda Tenie,4.25
+1338,Oliver Knill,3.59
+1340,Leon Liu,3.63
+1340,,
+1340,Jiakai Li,
+1340,,3.82
+1340,Amadeus Martin,4.5
+1340,Sofiia Dubova,4.5
+1340,,4.5
+1340,Amadeus Martin,4.6
+1340,,4.14
+1340,Jit Wu Yap,4.14
+1340,Hannah Constantin,
+1340,,
+1340,Hannah Constantin,4.0
+1340,,4.0
+1345,Roderic Guigo Corominas,4.58
+1345,Roderic Guigo Corominas,4.2
+1345,,3.9
+1345,Matteo Parisi,3.9
+1345,,
+1345,Fanhui Xu,3.64
+1345,,4.38
+1345,Eva Politou,
+1345,,3.8
+1345,Fanhui Xu,
+1345,,
+1345,Wanchun (Rosie) Shen,
+1345,Jonier Amaral Antunes,3.8
+1345,,
+1345,Jonier Amaral Antunes,4.24
+1345,,4.24
+1347,,4.05
+1347,Erica Dinkins,4.05
+1347,,3.57
+1347,Alice Lin,3.57
+1347,,4.0
+1347,,3.8
+1347,Jill Guerra,
+1347,,3.54
+1347,Erica Dinkins,3.54
+1347,Jaewon Chang,3.4
+1347,,3.4
+1347,,3.82
+1347,Jiyang Gao,3.82
+1347,,
+1347,Jill Guerra,3.69
+1347,Matthew Demers,4.0
+1347,Amanda Burcroff,
+1347,,3.64
+1347,,3.5
+1347,Matthew Demers,
+1353,Denis Auroux,3.9
+1362,Christopher Eur,
+1369,Joseph Harris,4.81
+1371,Clifford Taubes,4.75
+1314,Stephen McKean,4.15
+1316,Yum-Tong Siu,3.0
+1319,John Cain,4.19
+1320,Janet Chen,
+1322,Mark Kisin,3.74
+1324,Barry Mazur,
+1325,Gage Martin,4.4
+1327,Benjamin Gammage,3.25
+1329,Austin Conner,4.13
+1330,W. Hugh Woodin,4.33
+1331,Kevin Yang,3.83
+1333,Joseph Harris,4.27
+1334,Puskar Mondal,4.83
+1341,Horng-Tzer Yau,3.67
+1343,Peter Kronheimer,4.46
+1349,Noam Elkies,3.71
+1351,Yuriy Drozd,4.0
+1356,Hana Jia Kong,5.0
+1358,Mihnea Popa,5.0
+1360,Martin Nowak,
+1364,Sunghyuk Park,4.33
+1365,Lauren Williams,4.93
+177,Brian Kangas,4.67
+180,,3.38
+180,,3.38
+180,,3.38
+180,,3.38
+180,,3.38
+180,,3.38
+180,,
+180,,3.38
+180,Thomas Michel,3.38
+180,,3.38
+180,,3.38
+180,,3.38
+180,Emmanuel Rivera Rodriguez,3.38
+180,,3.38
+180,,
+181,Sara Buhrlage,2.79
+181,Catherine Dubreuil,2.79
+182,Philip Cole,3.6
+182,Eric Fischer,3.6
+182,Andrew Kruse,
+182,Nicholas Polizzi,
+182,Josefina del Marmol,3.6
+210,Spyros Artavanis-Tsakonas,3.09
+210,Edward Chouchani,3.09
+210,Elaine Elion,3.09
+210,Lucas Farnung,
+210,Daniel Finley,3.09
+210,Steven Gygi,3.09
+210,Amy Lee,
+210,Brendan Manning,
+210,Andrea McClatchey,3.09
+210,Danesh Moazed,3.09
+210,David Pellman,3.09
+210,Pere Puigserver,
+210,Adrian Salic,3.09
+210,Susan Shao,3.09
+210,Radhika Subramanian,
+210,Jennifer Waters,3.09
+210,Malcolm Whitman,3.09
+211,John Flanagan,3.75
+211,Guillermo Garcia-Cardena,3.75
+211,,3.75
+211,Karl Koehler,3.75
+211,,3.75
+211,Andrew Lassar,3.75
+211,Sean Megason,3.75
+211,Olivier Pourquie,3.75
+211,Marcos Simoes-Costa,
+212,Stephanie Dougan,4.44
+212,Yan Geng,4.44
+212,Naama Kanarek,4.44
+212,Jarrod Marto,4.44
+212,Jelena Patrnogic,4.44
+212,Kornelia Polyak,4.44
+212,Jun Qi,4.44
+212,Geoffrey Shapiro,4.44
+212,Peter Sicinski,4.44
+212,Zuzana Tothova,4.44
+212,Marc Vidal,4.44
+354,John Flanagan,3.75
+354,Guillermo Garcia-Cardena,3.75
+354,,3.75
+354,Karl Koehler,3.75
+354,,3.75
+354,Andrew Lassar,3.75
+354,Sean Megason,3.75
+354,Olivier Pourquie,3.75
+354,Marcos Simoes-Costa,
+889,Stephen Buratowski,5.0
+889,Scott Kennedy,5.0
+889,Fred Winston,5.0
+890,David Sweetser,
+1064,Richard Mitchell,4.75
+1064,Robert Padera,4.75
+1233,,4.05
+1234,Daniel Lingwood,3.75
+1235,Duane Wesemann,4.0
+1236,Isaac Chiu,
+1236,Jun Huh,4.67
+1421,Tom Bernhardt,4.8
+1421,Simon Dove,5.0
+1421,Sophie Helaine,4.8
+1421,David Rudner,5.0
+1422,Michael Gilmore,4.4
+1508,Edward Kravitz,4.73
+1508,Susanna Mierau,4.73
+1508,Patricia Musolino,4.73
+1508,Beth Stevens,4.73
+1511,Richard Born,3.55
+1511,Rachel Wilson,3.55
+1513,Gabriel Kreiman,4.26
+1780,Ramon Franco,3.38
+1780,David Jung,3.38
+1781,Julie Arenberg,3.0
+1781,Bertrand Delgutte,
+1781,John Gabrieli,3.0
+1781,Satrajit Ghosh,3.0
+1781,Lisa Goodrich,3.0
+1781,James Heaton,
+1781,Joshua McDermott,
+1781,Daniel Polley,3.0
+1781,Robert Richardson,3.0
+1781,Kristina Simonyan,3.0
+1781,Anne Takesian,3.0
+1983,Todd Allen,5.0
+1983,James Cunningham,5.0
+1983,Benjamin Gewurz,3.8
+1983,Smita Gopinath,3.8
+1983,Sizun Jiang,3.8
+1983,,3.8
+1983,,3.8
+1983,Silvi Rouskin,5.0
+1983,Aaron Schmidt,3.8
+1983,,5.0
+1419,Charles Donahue,4.67
+1376,Elizabeth Phelps,3.0
+1377,Poornima Kumar,4.25
+1378,William Milberg,4.5
+1379,David Silbersweig,4.9
+1382,Edward Pace-Schott,4.45
+1383,Vladimir Ivkovic,4.4
+1383,Gary Strangman,4.4
+1288,Andrew Berry,3.82
+1288,Monica Boselli,
+1288,Terence Capellini,
+1288,Maria Ostapovich,
+1288,Denise Yoon,3.82
+1291,Kevin Gozzi,4.57
+1291,Doeke Hekstra,4.57
+1291,Kara McKinley,4.57
+1291,Andrew Murray,4.57
+1291,Emma Nagy,4.57
+1291,Cara Weisman,
+1291,Benjamin de Bivort,4.57
+1286,Alain Viel,4.78
+1407,Monique Brewster,4.0
+1407,Rebecca LaCroix,4.0
+1407,Maxim Prigozhin,4.0
+1408,Sam Kunes,
+1408,Michele Markstein,4.41
+1409,Ethan Garner,4.41
+1409,Jeff Lichtman,4.41
+1409,Emma Nagy,4.41
+1412,Monique Brewster,5.0
+1412,Dominic Mao,5.0
+1414,Monique Brewster,3.71
+1414,Dominic Mao,3.71
+1385,Alain Viel,4.78
+1386,Yasuko Isoe,3.81
+1388,Ryan Draft,4.7
+1388,Katie Quast,4.7
+1389,Joshua Sanes,4.74
+1392,Laura Magnotti,4.92
+1394,Nancy Kleckner,4.75
+1395,Philippe Cluzel,4.13
+1396,Michele Markstein,4.73
+1396,Amanda Whipple,4.73
+1397,Michael Greenberg,4.05
+1397,Jeff Lichtman,4.05
+1397,Richard Losick,4.05
+1398,Haim Sompolinsky,4.12
+1400,Ryan Nett,3.25
+1402,Vladimir Denic,2.33
+1403,,3.0
+1403,Cait Moffatt,3.0
+1404,Jeff Lichtman,5.0
+1404,Douglas Richardson,4.8
+1433,Michael Uy,
+1435,Federico Cortese,4.58
+1440,Noah Horn,4.89
+1443,Edward Jones,4.96
+1447,Elizabeth Eschen,
+1464,Carolyn Abbate,
+1437,Federico Cortese,4.7
+1437,Yosvany Terry,4.57
+1441,Ingrid Monson,4.78
+1441,Yosvany Terry,4.75
+1445,Toru Momii,4.74
+1448,Yvette Jackson,4.43
+1449,Hans Tutschku,4.83
+1450,Federico Cortese,4.29
+1452,Vijay Iyer,4.55
+1456,Matthew Aucoin,4.9
+1459,Jessica Bodner,
+1459,Daniel Chong,4.79
+1459,Ken Hamao,4.79
+1459,Kee-Hyun Kim,4.79
+1460,Charrise Barron,4.19
+1461,Liam Hynes-Tawa,4.0
+1465,Richard Wolf,4.0
+1466,Charrise Barron,4.0
+77,Andrew Teeter,4.33
+78,Celine Debourse,5.0
+157,Richard Cozzens,
+158,Dana Malhas,4.5
+158,Dana Malhas,4.2
+158,Richard Cozzens,4.64
+160,Gregory Halaby,3.33
+160,Nader Uthman,5.0
+153,Muhammad Habib,4.67
+154,Shady Nasser,4.8
+1238,Lorenzo Bondioli,5.0
+1239,Ali Asani,4.88
+1239,Teren Sevea,4.88
+1241,Shahrad Shahvand,5.0
+1424,ran bechor,4.0
+1429,Mohammad Sagha,4.29
+1430,Mohammad Sagha,3.87
+1432,Osman Pamuk,4.43
+1476,Christina Maranci,4.1
+1543,Mojtaba Ebrahimian,5.0
+1541,Nicholas Boylston,5.0
+2002,Saul Zaritt,4.5
+2003,Saul Zaritt,3.59
+1503,Mark Cornwall,4.05
+1503,Bence Olveczky,4.05
+1503,Naomi Pierce,4.05
+1506,Ryan Draft,4.76
+1506,,4.76
+1507,Ryan Draft,4.88
+1507,Laura Magnotti,4.88
+1479,Tony Cunningham,4.88
+1479,,4.88
+1479,,4.88
+1481,,
+1481,,5.0
+1481,Vincent Pham,5.0
+1483,,
+1483,Alen Juginovic,
+1483,,4.8
+1485,,4.91
+1485,Kiah Hardcastle,4.91
+1485,,
+1487,,5.0
+1487,Saad Hannan,5.0
+1487,,5.0
+1489,Sara Beach,5.0
+1489,,4.6
+1489,,4.6
+1490,Dominika Burek,4.5
+1490,,4.5
+1490,,4.5
+1492,,
+1492,,4.91
+1492,Rasheen Powell,4.91
+1493,Yasuko Isoe,3.81
+1494,Ryan Draft,4.7
+1494,Katie Quast,4.7
+1495,Kristina Penikis,4.64
+1498,Gabriel Kreiman,4.26
+1500,Joshua Sanes,4.74
+1501,Laura Magnotti,4.92
+1502,Haim Sompolinsky,4.12
+1496,Randy Buckner,3.94
+1499,Samuel Gershman,4.0
+1530,Cassandra Extavour,4.64
+1530,Gonzalo Giribet,4.64
+1531,Noel Holbrook,4.45
+1531,Elena Kramer,
+1534,Nadja Drabon,4.43
+1534,Javier Ortega-Hernandez,4.43
+1535,Bence Olveczky,4.05
+1535,Naomi Pierce,4.05
+1537,Aaron Hartmann,4.6
+1519,David Haig,4.75
+1523,Scott Edwards,
+1524,Stephanie Pierce,4.8
+1525,Yun Zhang,4.25
+1526,Robin Hopkins,4.6
+1527,Michael Gilmore,4.4
+1580,Bernhard Nickel,4.61
+1561,Gina Schouten,4.38
+1582,Jeffrey McDonough,4.75
+1585,Mustafa Aziz,4.86
+1585,,4.86
+1585,Britta Clark,5.0
+1585,,5.0
+1585,Luke Ciancarelli,
+1585,,4.89
+1585,,5.0
+1585,Ryan Sirk,5.0
+1585,Edward Hall,4.82
+1587,,5.0
+1587,Malcolm Morano,5.0
+1587,Matthew Kopec,4.0
+1545,Mariana Noe,4.67
+1546,James Doyle,
+1550,Samantha Matherne,
+1551,Warren Goldfarb,4.88
+1554,Warren Goldfarb,4.57
+1555,Mark Richard,3.56
+1556,Peter Koellner,2.87
+1558,Shaun Nichols,5.0
+1559,Seth Robertson,3.83
+1560,Susanna Rinard,4.6
+1565,Selim Berker,4.89
+1567,Quinn White,5.0
+1573,Samantha Matherne,4.91
+1574,Parimal Patil,4.63
+1577,Shaun Nichols,5.0
+1581,Selim Berker,4.33
+1594,Stephen Adams,3.74
+1594,Timothy Milbourne,3.74
+1591,Kathryn Ledbetter,4.4
+1591,Gregorio Ponti,4.4
+1596,Nathan Melenbrink,4.47
+1605,Stephen Adams,4.32
+1605,Julia Mundy,4.32
+1605,Anna Wang-Holtzen,4.32
+1607,Carlos Arguelles Delgado,
+1607,Gregorio Ponti,3.8
+1609,Philip Kim,
+1609,Matteo Mitrano,4.55
+1609,Anna Wang-Holtzen,
+1644,Isaac Silvera,4.67
+1597,Lene Hau,
+1599,Louis Deslauriers,4.24
+1601,Girma Hailu,4.75
+1603,Girma Hailu,
+1611,Markus Greiner,3.6
+1612,Susanne Yelin,3.36
+1616,Jieping Fang,4.8
+1616,Jason Hoffman,4.8
+1616,Jenny Hoffman,4.8
+1616,Joseph Peidle,4.8
+1619,Jacob Barandes,4.43
+1620,Cora Dvorkin,4.5
+1622,Haim Sompolinsky,4.12
+1623,Sonia Paban,4.17
+1625,Jenny Hoffman,4.8
+1625,Jason Hoffman,4.8
+1627,Ashvin Vishwanath,
+1629,Matthew Schwartz,
+1631,Mikhail Lukin,3.75
+1638,Subir Sachdev,4.05
+1641,Suzanne Smith,
+1642,Jacob Barandes,
+1642,,4.4
+1642,Timothy Milbourne,4.4
+1642,Gregorio Ponti,
+1642,Anna Wang-Holtzen,
+1589,Jarvis Chen,4.38
+1589,Issa Dahabreh,4.38
+1589,Margaret McConnell,
+1654,Jason Mitchell,4.29
+1654,Nicole Noll,4.29
+1676,Jesse Snedeker,3.67
+1686,Rebecca Shingleton,4.62
+1713,,
+1713,,4.56
+1714,,4.43
+1714,,4.43
+1717,,4.67
+1717,,4.67
+1718,,4.83
+1718,,4.83
+1719,,4.71
+1719,,4.71
+1721,,5.0
+1721,,5.0
+1723,,5.0
+1723,,5.0
+1656,Nicole Noll,
+1658,Mayron Pereira Piccolo Ribeiro,4.5
+1659,Nancy Tsai,4.6
+1660,Shifali Singh,4.69
+1662,Tatyana Levari,4.8
+1664,Randy Buckner,3.94
+1667,Tomer Ullman,4.68
+1668,Elizabeth Phelps,
+1671,Samuel Gershman,4.0
+1672,George Alvarez,4.68
+1672,Talia Konkle,4.68
+1674,Gregory Davis,4.5
+1677,Selva Lewin-Bizan,4.88
+1679,Ashley Leung,4.0
+1680,Ashley Leung,4.44
+1682,Leah Somerville,4.59
+1683,Ryan Lundell-Creagh,4.2
+1687,Mayron Pereira Piccolo Ribeiro,4.92
+1692,Grace Lin,3.69
+1694,Mina Cikara,3.52
+1695,Ryan Lundell-Creagh,4.67
+1697,Patrick Mair,4.64
+1703,Ashley Thomas,3.0
+1706,Rebecca Shingleton,5.0
+1708,Fiery Cushman,4.0
+1710,Michael Norton,
+1725,Mikhail Lukin,3.75
+1726,Joonho Lee,5.0
+1729,Diana Eck,4.25
+1741,Benjamin Dunning,4.42
+1742,Charles Lockwood,5.0
+1730,Catherine Brekus,4.68
+1732,Nathan Pederson,4.56
+1732,Matthew Potts,4.56
+1734,Brian FitzGerald,3.0
+1735,Ali Asani,4.88
+1735,Teren Sevea,4.88
+1736,Amy Hollywood,3.4
+1738,Giovanni Bazzana,3.0
+704,,
+706,,4.0
+706,,5.0
+706,,4.22
+706,,4.5
+710,,4.64
+714,,4.33
+714,,4.5
+716,,4.22
+716,,4.5
+716,Claire-Marie Brisson,4.71
+716,,3.75
+718,,4.33
+718,,4.67
+718,,4.0
+720,,
+721,Karen Turman,4.2
+723,Matthew Rodriguez,4.2
+712,Matthew Rodriguez,4.17
+1243,,5.0
+1243,Chiara Trebaiocchi,5.0
+1245,Elisa Tragni Maloney,4.83
+1245,,
+1245,,
+1245,,4.5
+1245,,4.5
+1245,,4.5
+1250,,5.0
+1250,,
+1246,Francesco Erspamer,5.0
+1647,,4.6
+1648,,5.0
+1649,,5.0
+1651,Cristiane Soares,5.0
+1652,Cristiane Soares,4.0
+1743,Bruno Carvalho,
+1744,Jeffrey Schnapp,4.44
+1856,,3.71
+1858,,
+1858,,
+1858,,
+1858,,
+1858,,3.13
+1858,,3.8
+1858,,
+1858,,4.25
+1858,,4.0
+1863,,4.5
+1867,,4.17
+1867,,3.2
+1867,,3.83
+1867,,3.89
+1867,,
+1867,,3.75
+1867,,4.0
+1871,,4.9
+1871,,4.83
+1871,,4.4
+1871,Xiomara Feliberty Casiano,5.0
+1871,,
+1871,,4.5
+1873,,4.67
+1873,,4.86
+1873,Xiomara Feliberty Casiano,4.88
+1873,,4.4
+1873,,5.0
+1876,,4.6
+1876,,
+1876,,4.83
+1878,,4.88
+1879,,4.67
+1881,Adriana Gutierrez,4.69
+1881,,4.33
+1881,,
+1881,,5.0
+1883,Alejandra Vela Martinez,3.4
+1885,Daniel Aguirre-Oteiza,5.0
+1859,Alejandro Quintero Machler,4.67
+1861,Alejandra Vela Martinez,4.0
+1865,Mariano Siskind,
+1868,Mariano Siskind,
+1869,Daniel Aguirre-Oteiza,4.43
+1748,Alexandra Vacroux,5.0
+183,Tatiana Kuzmic,5.0
+1750,Veronika Egorova,4.6
+1750,Liya Zalaltdinova,5.0
+1789,Aleksandra Kremer,4.5
+1782,Daria Khitrova,
+1784,Justin Weir,4.88
+1785,Tamara Gundorova,5.0
+1786,Aleksandra Kremer,4.78
+1977,Nataliya Shpylova-Saeed,5.0
+1791,Bo-Mi Choi,
+1791,Katrina Forrester,4.66
+1791,Shterna Friedman,
+1791,Jonathan Hansen,4.66
+1791,John Harpham,4.66
+1791,Gili Kliger,4.66
+1791,Jonathan Masin-Peters,
+1791,Vatsal Naresh,4.66
+1791,Lowry Pressly,
+1791,Nicolas Prevelakis,4.66
+1791,Renugan Raidoo,4.66
+1791,Tracey Rosen,4.66
+1791,Brandon Terry,4.66
+1791,Rosemarie Wagner,4.66
+1791,William Whitham,4.66
+1793,Matthew Reichert,4.73
+1794,Charles Clavey,4.63
+1796,Nicole Simon,4.6
+1797,Terry Aladjem,4.86
+1803,Steven Levitsky,5.0
+1805,Gili Kliger,
+1806,Vatsal Naresh,4.0
+1809,Adaner Usmani,4.78
+1810,Shterna Friedman,5.0
+1811,Lowry Pressly,4.89
+1812,Peter Gordon,5.0
+1813,Renugan Raidoo,5.0
+1851,Shai Dromi,4.39
+1816,Jason Beckfield,
+1817,Jocelyn Viterna,4.55
+1818,Adaner Usmani,4.69
+1821,Isabel Jijon,4.49
+1823,Emily Fairchild,
+1825,Ya-Wen Lei,4.82
+1826,Leah Muse-Orlinoff,4.3
+1829,Michele Lamont,4.67
+1832,Shai Dromi,4.39
+1833,Paul Chang,4.79
+1836,Christina Ciocca Eller,4.5
+1838,Christopher Muller,4.6
+1839,Caitlin Daniel,4.75
+1840,Robert Sampson,4.88
+1843,Xiang Zhou,3.9
+1844,Christopher Muller,4.6
+1845,Ellis Monk,1.57
+1846,Michele Lamont,4.17
+1848,Robert Sampson,4.83
+1092,Richard Delacy,4.71
+1092,Parimal Patil,4.71
+1092,Hajnalka Kovacs,3.47
+1092,Parimal Patil,3.47
+1093,Richard Delacy,5.0
+1755,Patrick Cummins,
+1757,Patrick Cummins,4.8
+1935,Jonathan Ripley,5.0
+1930,Kevin A. Rader,3.4
+1888,Kelly McConville,4.23
+1888,Julie Vu,4.23
+1890,Julie Vu,3.74
+1890,James Xenakis,3.74
+1892,Kevin A. Rader,3.59
+1894,Chris Gumb,
+1894,Pavlos Protopapas,4.25
+1894,Alex Young,4.25
+1896,Joseph Blitzstein,3.98
+1896,Neil Shephard,3.98
+1897,James Xenakis,3.87
+1898,Giovanni Parmigiani,4.38
+1899,Tracy Ke,4.33
+1901,Mark Glickman,4.24
+1902,Mark Glickman,
+1904,Kelly McConville,4.8
+1904,Julie Vu,4.8
+1905,Subhabrata Sen,
+1908,Susan Murphy,4.1
+1910,Pragya Sur,3.74
+1913,Morgane Austern,4.68
+1914,Pragya Sur,4.7
+1915,Subhabrata Sen,4.71
+1916,Jun Liu,
+1919,Susan Murphy,4.44
+1923,Xiao-li Meng,4.38
+1924,Mark Sellke,5.0
+1926,Mark Glickman,5.0
+1926,Tracy Ke,3.0
+1928,Mark Sellke,3.5
+1928,Alex Young,4.0
+1777,Paola Arlotta,
+1777,Maddie Balman,4.4
+1777,,4.4
+1777,,4.4
+1777,Amie Holmes,4.4
+1777,Richard Lee,4.4
+1777,Jessica Whited,4.4
+1763,Sergio Imparato,
+1764,Kara McKinley,4.95
+1765,Fernando Camargo,4.67
+1767,Jason Buenrostro,4.43
+1768,Ryan Flynn,4.86
+1770,David Breault,4.36
+1770,Leonard Zon,4.36
+1772,Paola Arlotta,4.44
+1772,Steven Hyman,4.44
+209,Alain Viel,4.58
+1970,,2.33
+1970,Jerry Lieblich,2.33
+1970,James Stanley,
+1971,Derek Miller,4.5
+1937,Marcus Stern,4.9
+1938,Remo Airaldi,5.0
+1940,Erika Bailey,4.5
+1942,Daria Khitrova,
+1943,Peter Simpson,4.77
+1945,David Levine,4.6
+1946,Kate Brehm,4.33
+1947,Marcus Stern,4.78
+1952,Jeffrey Page,4.89
+1953,LROD Rodriguez,4.74
+1956,Jeff Adelberg,4.8
+1957,Phillip Howze,2.9
+1961,Debra Levine,5.0
+1962,Mark Lunsford,4.83
+1965,Dayron Miles,4.44
+1968,Stew Stewart,4.67
+1999,Imani Perry,4.17
+1989,Jung Choi,4.62
+1991,Phyllis Thompson,4.53
+1992,Linda Schlossberg,4.8
+1997,Kendra Albert,
+0,Sarah Lewis,4.53
+0,Marcus Mayo,4.53
+1,Doris Sommer,
+2,Daniel Agbiboa,4.1
+3,Timothy Ogene,5.0
+6,Robin Bernstein,4.83
+6,Glenda Carpio,
+8,Imani Perry,4.15
+10,George Aumoithe,4.86
+12,Myisha Eatmon,
+15,David Williams,4.0
+16,Daniel Agbiboa,4.6
+19,Jesse McCarthy,4.75
+22,,4.8
+75,,4.0
+1062,John Mugane,5.0
+1230,,2.5
+1251,,5.0
+1538,,3.8
+2000,Taiwo Ehineni,5.0
+2004,Taiwo Ehineni,4.71
+2005,,
+110,Damina Khaira,4.2
+82,Sarah Hlubik,4.5
+83,Patricia Capone,4.8
+83,Diana Loren,4.8
+87,Julia Fierman,
+89,Anya Bernstein,3.6
+91,Julia Fierman,
+96,Anya Bernstein,4.0
+98,Amy Clark,4.8
+98,Matt Liebmann,4.8
+100,Solsire Cusicanqui Marsano,4.4
+103,Mercedes Becerra,4.55
+103,David Jones,4.55
+103,Salmaan Keshavjee,4.55
+103,Lindsey Zeve,4.55
+112,Ignacio Becker Troncoso,1.94
+113,Pavlos Protopapas,
+113,Kevin A. Rader,4.14
+115,Pavlos Protopapas,3.81
+118,Weiwei Pan,3.79
+120,Weiwei Pan,4.0
+121,Efthimios Kaxiras,4.21
+121,Logan McCarty,4.21
+121,Georgios Neofotistos,4.21
+136,Steven Gortler,3.37
+123,L Mahadevan,3.49
+127,Sarah Iams,4.25
+130,Margo Levine,4.53
+131,Michael Brenner,4.03
+132,Nick Trefethen,3.75
+133,Petros Koumoutsakos,3.72
+134,Anna Seigal,4.38
+150,Eric Mazur,3.36
+150,Giulia Semeghini,3.36
+140,Julia Mundy,4.67
+141,Joanna Aizenberg,4.6
+142,Maxim Prigozhin,3.94
+145,Vinothan Manoharan,4.16
+146,Sharad Ramanathan,4.19
+149,Donhee Ham,4.85
+33,Katarina Burin,3.71
+45,Annette Lemieux,4.0
+54,Peter Kuper,3.5
+57,Kianja Strobert,4.88
+60,Patrice Helmar,4.75
+60,Patrice Helmar,4.25
+62,Sharon Harper,
+63,Robb Moss,5.0
+65,Alfred Guzzetti,4.67
+66,Ruth Lingford,4.43
+69,Alfred Guzzetti,4.57
+70,Alain Gomis,3.14
+71,Karthik Pandian,4.71
+24,Katarina Burin,
+28,Judith Belzer,4.88
+34,Sharon Harper,5.0
+36,Alain Gomis,4.5
+38,Ross McElwee,4.17
+40,Ruth Lingford,4.86
+50,Eric Rentschler,4.33
+51,Stephen Prina,
+58,Karthik Pandian,4.6
+161,David Charbonneau,4.53
+166,Philip Sadler,4.05
+165,Daniel Eisenstein,4.06
+173,Xingang Chen,
+163,Xingang Chen,4.94
+167,Ramesh Narayan,4.15
+170,John Johnson,5.0
+204,Nancy Long Sieber,
+206,Zachary Nagel,4.71
+207,,5.0
+207,Yonatan Grad,5.0
+184,Maurice Smith,3.39
+185,Patrick Slade,4.5
+190,Jia Liu,
+193,Jeffrey Miller,4.92
+195,Rachel Nethery,4.0
+197,Junwei Lu,4.55
+200,Tom Chen,
+215,Joseph Nagy,4.5
+216,Thomas Hunter,
+352,Monique Brewster,4.0
+352,Dominic Mao,4.0
+217,Adam Cohen,4.82
+217,Lu Wang,4.82
+229,Sirinya Matchacheep,
+239,Andrew Myers,4.41
+218,Heidi Vollmer-Snarr,4.38
+220,Eric Jacobsen,4.63
+221,Matthew Shair,3.83
+222,Dilek Dogutan Kiper,5.0
+224,Jarad Mason,
+225,Khaled Abdelazim,4.66
+232,David Liu,4.65
+234,Eric Heller,4.57
+236,Eugene Shakhnovich,4.8
+240,Gregory Tucci,3.82
+240,Lu Wang,3.82
+1312,Monica Boselli,3.97
+1312,Maria Ostapovich,3.97
+1312,Gregory Tucci,
+274,Paul Kosmin,4.68
+269,Natasha Bershadsky,
+271,Mark Schiefsky,3.73
+1020,,4.63
+1026,,4.89
+1022,Jeremy Rau,5.0
+1024,Naomi Weiss,4.83
+1277,Ivy Livingston,4.5
+1277,Ivy Livingston,4.2
+1284,,4.82
+1278,,5.0
+1279,Rachel Philbrick,4.86
+1280,Irene Peirano Garrison,3.71
+1282,Kathleen Coleman,
+1425,Calliopi Dourou,5.0
+278,David Damrosch,4.45
+279,Sandra Naddaff,4.88
+283,Annette Lienau,4.67
+285,Junting Huang,5.0
+289,Panagiotis Roilos,4.5
+291,David Damrosch,4.36
+1975,Thomas Wisniewski,4.83
+345,Yannai Gonczarowski,4.19
+346,David Malan,3.87
+346,Carter Zenke,
+346,Yuliia Zhukovets,
+349,Kitty Ascrizzi,4.2
+349,James Mickens,4.2
+350,Martin Wattenberg,
+351,Krzysztof Gajos,4.08
+293,James Waldo,4.76
+294,Ignacio Becker Troncoso,1.94
+295,Pavlos Protopapas,
+295,Kevin A. Rader,4.14
+297,Anurag Anshu,4.01
+297,Adam Hesterberg,4.01
+298,Kitty Ascrizzi,4.31
+298,Boaz Barak,
+300,Cynthia Dwork,4.33
+302,Francisco Marmolejo-Cossio,4.52
+302,David Parkes,4.52
+302,Matheus Xavier Ferreira,4.52
+308,Stephen Chong,4.48
+310,Stratos Idreos,4.05
+311,Johanna Beyer,3.98
+311,Hanspeter Pfister,3.98
+315,Stephanie Gil,3.41
+315,Milind Tambe,3.41
+316,Lucas Janson,3.9
+316,Sham Kakade,3.9
+317,Stuart Shieber,3.08
+322,Sitan Chen,4.46
+324,Madhu Sudan,4.76
+325,Yiling Chen,4.6
+327,H.T. Kung,4.26
+328,Minlan Yu,4.19
+331,Vijay Janapa Reddi,
+332,Nada Amin,4.73
+338,Elena Glassman,4.2
+339,Finale Doshi-Velez,4.69
+340,Todd Zickler,4.57
+342,John Girash,4.54
+342,Madhu Sudan,4.54
+355,Rebecca Fischer,4.41
+372,Marianna Linz,3.87
+373,Jerry Mitrovica,
+357,Roger Fu,3.91
+358,Stein Jacobsen,2.8
+365,Elsie Sunderland,4.73
+367,Daniel Jacob,4.86
+256,Fangzheng Zhang,4.4
+256,Fangzheng Zhang,4.78
+256,Fangzheng Zhang,4.65
+256,Fangzheng Zhang,5.0
+256,Fangzheng Zhang,4.64
+256,Fangzheng Zhang,4.63
+258,Landon (Yuxiao) Du,5.0
+258,Landon (Yuxiao) Du,4.75
+258,Landon (Yuxiao) Du,
+243,David Sena,5.0
+244,Ying-Chieh Wang,4.77
+244,Ying-Chieh Wang,4.8
+244,Ying-Chieh Wang,4.78
+247,Bin Yang,4.31
+247,Bin Yang,4.71
+247,Bin Yang,
+249,Shunan Yang,4.67
+249,Shunan Yang,5.0
+251,Xiaocheng Chen,4.57
+252,Xiaoshi Yu,4.67
+252,Xiaoshi Yu,4.83
+259,Mark Elliott,4.83
+261,Wai-Yee Li,4.4
+264,David Wang,4.67
+265,Thomas Kelly,
+266,Stephen Owen,5.0
+380,Jie Li,4.75
+381,Alexander Zahlten,4.56
+386,Daniel Koss,4.58
+387,Shigehisa Kuriyama,4.6
+1263,Yuki Sakomura,4.75
+1263,Yuki Sakomura,
+1263,Yuki Sakomura,3.86
+1253,Danica Truscott,4.6
+1254,Chikako Takehara,5.0
+1254,Chikako Takehara,4.89
+1256,Mihoko Yagi,4.5
+1258,Naomi Asakura,
+1260,Naomi Asakura,4.4
+1262,Wesley Jacobsen,4.6
+1267,David Atherton,
+1269,David Atherton,5.0
+1274,Hwanhee Kim,4.82
+1274,Hi-Sun Kim,4.63
+1274,Hi-Sun Kim,4.67
+1270,Ahsil Noh,
+1272,Hwanhee Kim,
+1276,Youngeun Koo,5.0
+1980,Hoa Le,4.92
+1979,Hoa Le,5.0
+406,Jason Furman,
+406,David Laibson,3.82
+406,David Martin,3.82
+408,Andres Maggi,4.49
+484,John Campbell,4.32
+485,,4.43
+485,Reed Orchinik,4.43
+485,,2.89
+485,Patrick Power,2.89
+485,John Felter,4.6
+485,,5.0
+485,John Felter,4.63
+485,,4.63
+485,Cirrus Foroughi,4.8
+485,,
+485,,4.44
+485,Andres de Loera,4.44
+485,Matthew Basilico,5.0
+485,,
+485,,4.38
+485,Omar Olivarez,4.38
+485,Anne Le Brun,4.5
+485,Cirrus Foroughi,4.67
+485,,4.67
+490,Ariel Pakes,4.36
+491,Claudia Goldin,4.75
+493,Kiran Gajwani,4.82
+493,Kiran Gajwani,4.33
+493,Paul Willen,4.33
+493,Sachet Bangia,4.2
+493,,4.2
+493,Matthew Basilico,4.25
+493,,
+493,Anwesha Bhattacharya,4.5
+493,,4.5
+493,Kiran Gajwani,4.67
+493,Leslie Sheng Shen,4.67
+493,,4.83
+493,Michal Kowalik,4.83
+495,Thomas Baranga,5.0
+391,Maxim Boycko,3.08
+393,Thomas Baranga,3.19
+395,Edward Glaeser,4.0
+398,Jeffrey Miron,4.07
+399,Roland Fryer,4.7
+402,Moshe Hoffman,
+402,Erez Yoeli,4.07
+403,Yannai Gonczarowski,4.19
+404,Michela Carlana,4.2
+405,Emily Breza,
+410,Davide Pettenuzzo,
+412,Phillip Heiler,
+414,Gabriel Kreindler,3.62
+415,Jeffrey Liebman,
+415,Lawrence Summers,
+417,Hans-Helmut Kotz,
+418,Benjamin Enke,4.22
+420,Lawrence Summers,4.92
+420,Paul Tucker,4.92
+421,Ferdinando Monte,4.56
+422,Kenneth Rogoff,4.45
+426,Daniel Bergstresser,4.25
+430,Stephen Marglin,4.73
+431,,
+431,,
+433,Edward Glaeser,4.5
+433,Eric Maskin,
+435,Martin Eichenbaum,
+435,David Laibson,4.18
+437,Luis Armona,
+439,Sudhir Anand,3.33
+439,Amartya Sen,3.33
+440,Matthew Rabin,4.5
+441,Benjamin Enke,4.67
+443,Gregory Bruich,
+445,Phillip Heiler,3.13
+447,Neil Shephard,3.76
+451,Gabriel Kreindler,4.71
+453,Emily Breza,4.73
+455,Gabriel Chodorow-Reich,3.86
+457,David Yang,4.8
+458,Stefanie Stantcheva,4.92
+461,Elhanan Helpman,4.17
+462,Kenneth Rogoff,5.0
+463,Robin Lee,4.5
+465,John Campbell,4.67
+466,Samuel Hanson,
+466,Adi Sunderam,
+469,Lawrence Katz,4.56
+471,Stefanie Stantcheva,5.0
+472,Edward Glaeser,5.0
+472,Claudia Goldin,5.0
+472,Lawrence Katz,5.0
+472,Amanda Pallais,5.0
+473,,
+474,,
+474,,
+475,Melissa Dell,4.83
+478,Claudia Goldin,5.0
+480,,5.0
+480,,5.0
+480,,1.0
+482,Mark Shepard,4.67
+496,Paul Harris,4.21
+497,Catherine Elgin,4.09
+498,Emmerich Davies,4.31
+503,Liao Cheng,4.11
+553,Kelly Miller,4.5
+578,Seymur Hasanov,4.0
+580,Jennifer Lewis,
+580,Linsey Moyer,3.86
+582,Paul Bottino,4.89
+584,Kelly Miller,3.76
+584,David Mooney,3.76
+523,Chris Lombardo,4.73
+529,Boris Kozinsky,4.38
+532,David Ricketts,4.23
+536,Gage Hills,4.77
+537,Na Li,4.27
+539,Demba Ba,3.92
+540,Heng Yang,4.86
+541,Justin Werfel,4.29
+542,Evelyn Hu,4.68
+544,Mark Coughlin,3.63
+544,,3.63
+547,David Clarke,3.25
+550,Federico Capasso,2.83
+554,Shriya Srinivasan,
+555,Patrick Slade,4.5
+556,Jia Liu,
+561,Xin Li,3.87
+566,Justin Werfel,4.29
+567,Gu-Yeon Wei,5.0
+569,Fawwaz Habbal,
+571,Thomas Eisenmann,
+571,Robert Howe,
+572,Joanna Aizenberg,3.64
+572,Jonathan Grinham,3.64
+574,Suzanne Smith,4.87
+636,Margaret Doherty,
+637,Paul Yoon,4.18
+640,Joshua Bell,
+643,Tracy K. Smith,
+644,Tracy K. Smith,5.0
+646,Jesse McCarthy,4.92
+647,Laura van den Berg,4.88
+650,Claire Messud,4.91
+651,Indraneel Mukherjee,4.88
+653,Joshua Bell,5.0
+655,Laura van den Berg,4.89
+656,Louisa Thomas,
+658,Musa Syeed,5.0
+661,Melissa Cundieff,4.86
+663,Margaret Doherty,4.73
+667,Paul Yoon,5.0
+669,Rachel Kaadzi Ghansah,4.9
+671,Valeria Luiselli,5.0
+586,Indraneel Mukherjee,
+586,Namwali Serpell,3.65
+610,Stephanie Burt,4.48
+610,Nicholas Watson,4.0
+622,Ju Yon Kim,4.86
+624,John Stauffer,4.36
+625,Christopher Pexa,4.86
+626,Leah Whittington,4.67
+628,Derek Miller,4.75
+629,Gordon Teskey,4.67
+630,Maria Dikcis,4.85
+631,Tara Menon,
+632,Daniel Donoghue,4.55
+633,Anna Wilson,5.0
+590,Carly Yingst,4.7
+600,Tara Menon,4.6
+602,Sarah Dimick,4.81
+603,Melissa Franklin,4.47
+603,Claire Messud,4.47
+605,Kelly Rich,
+607,Homi Bhabha,4.7
+609,Anna Wilson,4.25
+612,Stephen Greenblatt,5.0
+612,Joseph Koerner,
+614,Elaine Scarry,5.0
+618,Martin Puchner,4.38
+681,Marianna Linz,3.87
+673,Roger Fu,3.91
+674,Bryan Yoon,4.82
+677,Robin Wordsworth,4.25
+679,Scot Martin,3.75
+680,Elsie Sunderland,4.73
+686,Sheila Jasanoff,3.54
+688,Aladdine Joroff,4.67
+689,Michael McElroy,
+690,Peter Frumhoff,4.64
+692,Jackie Matthes,
+511,Eleanor Craig,
+512,Americo Mendoza-Mori,4.73
+513,Leslie Fernandez,4.8
+514,Mandy Izadi,4.89
+515,Leslie Fernandez,5.0
+507,Americo Mendoza-Mori,4.52
+693,Tad Davies,4.57
+693,Margaret Deli,4.67
+693,Margaret Deli,5.0
+693,Amy Hanes,4.63
+693,Amy Hanes,4.14
+693,Karen Heath,4.83
+693,Hannah Kauders,4.25
+693,Hannah Kauders,4.25
+693,Thomas Jehn,
+693,Jodi Johnson,4.5
+693,Jodi Johnson,
+693,Jonah Johnson,4.29
+693,Taleen Mardirossian,4.7
+693,Taleen Mardirossian,4.8
+693,Ben Parson,5.0
+693,Ben Parson,
+693,John Sampson,4.63
+693,John Sampson,4.38
+693,Tracy Strauss,5.0
+693,Tracy Strauss,4.5
+693,Peter Vilbig,3.38
+693,Peter Vilbig,4.2
+693,Patricia Bellanca,3.7
+694,Sheza Alqera,4.0
+694,Sheza Alqera,4.25
+694,Katie Baca,4.5
+694,Douglas Bafford,3.44
+694,Douglas Bafford,4.22
+694,Collier Brown,4.58
+694,Matthew Cole,4.15
+694,Matthew Cole,4.43
+694,Samuel Garcia,3.36
+694,Samuel Garcia,3.78
+694,J. Gregory Given,
+694,J. Gregory Given,3.7
+694,Alexandra Gold,4.87
+694,Alexandra Gold,5.0
+694,Ethan Goldberg,4.45
+694,Ethan Goldberg,4.5
+694,James Herron,4.64
+694,Eliza Holmes,4.18
+694,Eliza Holmes,4.38
+694,Isabel Lane,3.92
+694,Isabel Lane,
+694,Ross Martin,
+694,Ross Martin,4.75
+694,Keating McKeon,
+694,Keating McKeon,4.69
+694,Rachel Meyer,
+694,Shannon Monaghan,3.36
+694,Shannon Monaghan,3.57
+694,David Nee,4.67
+694,Brian Pietras,3.17
+694,Kelsey Quigley,4.0
+694,Kelsey Quigley,4.57
+694,Emilie Raymer,
+694,Emilie Raymer,4.92
+694,Sparsha Saha,4.42
+694,Sparsha Saha,4.83
+694,Adam Scheffler,
+694,Ian Shank,
+694,Ian Shank,4.25
+694,Gillian Sinnott,4.45
+694,Stephen Spencer,2.8
+694,Stephen Spencer,4.22
+694,Elliott Turley,4.36
+694,Elliott Turley,4.2
+694,Mande Zecca,4.42
+694,Mande Zecca,4.67
+694,Jane Rosenzweig,4.75
+694,Ryan Napier,
+694,Ryan Napier,4.46
+696,Erika Bailey,4.91
+696,Kate Clarke,5.0
+696,Nicholas Coburn-Palo,4.88
+696,Nicholas Coburn-Palo,4.82
+696,Terry Gipson,4.82
+696,Terry Gipson,
+696,James Montano,4.79
+696,James Montano,4.91
+696,Lee Nishri,4.91
+696,Zachary Stuart,4.8
+696,Zachary Stuart,4.92
+727,Andrew Strominger,4.64
+728,David Orwig,4.82
+729,Giovanni Parmigiani,4.44
+730,Jeremy Bloxham,3.44
+731,Sabine Hildebrandt,4.67
+732,Miaki Ishii,4.57
+734,John Doyle,4.0
+735,Frederick Millham,5.0
+737,Colleen Cavanaugh,4.7
+739,Nancy Rappaport,4.13
+740,Howard Georgi,3.5
+741,Jeffrey Macklis,4.62
+742,Sanjay Saini,4.36
+743,Peter Manuelian,4.86
+744,Cheryl Chen,4.8
+745,Mathias Risse,3.43
+746,Catherine Elgin,3.5
+747,Mariano Siskind,4.14
+748,Philip Fisher,
+750,Remo Airaldi,4.7
+751,Stephanie Sandler,
+752,Elie Ofek,5.0
+753,Robin Gottlieb,4.6
+754,Carol Steiker,4.31
+755,Susan Farbstein,
+758,James Stock,4.64
+759,,4.67
+759,N. Mankiw,4.67
+760,Marla Eby,
+761,Brendan Meade,4.7
+762,David Fisher,4.44
+764,William Friedman,4.86
+765,Ashvin Vishwanath,
+767,Peter Kronheimer,4.0
+768,Javier Ortega-Hernandez,4.5
+769,Lauren Williams,4.33
+770,Ann Pearson,4.14
+772,Benton Taylor,
+775,Shaye Cohen,4.83
+776,Bruno Carvalho,
+777,Ryuichi Abe,4.8
+778,Nicole Suetterlin,4.63
+779,Homi Bhabha,4.17
+780,Rachel Love,4.0
+781,Nariman Skakov,4.6
+782,Gordon Teskey,4.8
+784,Karen Thornber,4.78
+785,Andrew Holder,
+786,Quinn White,5.0
+787,Jan Ziolkowski,3.33
+788,Vishal Khandelwal,2.8
+789,Jay Harris,3.56
+790,Patricio del Real,4.0
+791,Joseph Badaracco,4.89
+792,Christopher Bavitz,4.77
+794,Benjamin Friedman,4.33
+795,Jason Furman,4.6
+798,Michael Norton,4.5
+799,William Whitham,
+800,Tyler Giannini,
+801,Nancy Hill,4.56
+802,Lowry Pressly,4.91
+803,Rosie Bsheer,4.86
+804,Alejandro de la Fuente,4.75
+805,Caroline Light,4.22
+806,Stephen Marglin,4.44
+698,Sarah Craycraft,4.32
+698,Stephen Mitchell,4.32
+701,Felicity Lufkin,4.43
+809,Giovanni Bazzana,4.13
+810,Alexander Rehding,4.31
+813,Satchit Balsari,3.28
+813,Tarun Khanna,3.28
+815,Andrew Gordon,
+815,Erez Manela,3.51
+816,Charles Langmuir,3.55
+817,Orlando Patterson,3.88
+820,Susanna Rinard,4.41
+822,Ann Blair,4.63
+822,Leah Whittington,4.63
+825,Tomiko Yoda,4.33
+826,Eric Rentschler,4.2
+828,David Levine,4.8
+830,Richard Lee,4.53
+831,Joseph Henrich,3.38
+833,Justin Weir,4.54
+839,Jacob Olupona,
+840,Gregory Nagy,
+841,Karen Thornber,4.12
+842,David Cutler,4.26
+843,Robert Wood,4.47
+845,David Haig,
+846,Theda Skocpol,3.64
+846,Mary Waters,
+847,Anne Becker,4.15
+847,Salmaan Keshavjee,4.15
+847,Arthur Kleinman,
+848,Daniel Schrag,3.82
+850,Cass Sunstein,3.85
+851,Pia Sorensen,4.18
+852,Rowan Flad,3.98
+852,Jason Ur,
+857,Matt Saunders,4.93
+859,David Jones,4.56
+861,Robert Lawrence,
+861,Lawrence Summers,
+863,Donald Goldmann,4.0
+864,Kathleen Coleman,4.33
+865,John Stauffer,
+866,Peter Bol,
+866,William Kirby,4.0
+868,Alexander Zahlten,4.43
+869,David L. Carrasco,
+869,Bill Fash,3.85
+874,Stephanie Burt,3.27
+875,Diana Eck,4.23
+876,James Anderson,3.87
+876,James Engell,
+878,Wai-Yee Li,4.37
+878,David Wang,4.37
+881,Michael Sandel,4.4
+883,Christina Maranci,
+891,,4.8
+892,,4.9
+900,,5.0
+900,,4.42
+904,Anne Dymek,4.14
+904,Anne Dymek,3.71
+895,,5.0
+897,Peter Gordon,4.56
+899,,4.8
+1932,,5.0
+906,Anupam Jena,
+975,Paul Peterson,4.02
+982,Matthew Blackwell,4.27
+986,Leonie Beyrle,
+986,Latanya Sweeney,4.5
+987,Avishay Ben Sasson-Gordis,4.63
+987,Sergio Imparato,4.63
+988,Torben Iversen,4.73
+990,Jennifer Halen,4.21
+993,Daniel Ziblatt,4.91
+995,Michael Hiscox,5.0
+997,Christopher Rhodes,4.67
+998,Gabriel Katsh,4.9
+1001,Jennifer Halen,4.5
+1004,Michael Sandel,4.89
+1007,Ofrit Liviatan,4.6
+1010,Christopher Rhodes,4.2
+1011,Peter Hall,4.86
+1013,Taeku Lee,5.0
+1015,Christoph Mikulaschek,4.36
+1017,Shanna Weitz,4.43
+1019,Eric Beerbohm,4.8
+910,Kanglin Chen,
+913,Sarah Hummel,4.19
+916,Eric Nelson,4.06
+922,Pia Raffler,4.78
+928,Timothy Colton,4.56
+929,Sarah Hummel,4.27
+933,Paul Peterson,
+934,Ryan Enos,
+936,Leonie Beyrle,4.22
+936,Latanya Sweeney,4.22
+937,Richard Fallon,4.55
+939,Roger Porter,4.91
+943,Christoph Mikulaschek,4.03
+944,Matthew Brummer,4.88
+947,Jeffry Frieden,4.29
+948,Nargis Kassenova,4.2
+949,Graham Allison,4.55
+949,Derek Reveron,4.55
+949,David Sanger,4.55
+950,Alastair Johnston,
+953,Matthew Blackwell,
+954,Kosuke Imai,4.08
+955,Konstantinos Matakos,2.88
+958,Emma Saunders-Hastings,4.33
+962,Antonia Maioni,5.0
+964,Torben Iversen,4.75
+964,Pia Raffler,4.75
+965,Timothy Colton,4.0
+965,Grzegorz Ekiert,5.0
+967,James Snyder,4.17
+967,Stephanie Ternullo,4.17
+970,Ryan Enos,4.38
+971,Stephen Chaudoin,4.5
+971,Joshua Kertzer,4.5
+974,Christina Davis,
+977,Christina Davis,4.33
+977,Christoph Mikulaschek,4.33
+1224,Meredith Rosenthal,
+1115,Aaron Bekemeyer,
+1123,Katie Holmes,4.83
+1124,Sidney Chalhoub,4.58
+1126,Kenneth Alyass,4.67
+1128,Myisha Eatmon,4.44
+1159,Serhii Plokhii,4.25
+1160,Emma Rothschild,4.54
+1167,Carla Heelan,4.39
+1095,Jesse Hoffnung-Garskof,4.3
+1096,Laura Johnson,4.69
+1096,Derek Penslar,4.69
+1098,Maya Jasanoff,
+1100,David Howell,4.41
+1102,Jamie Martin,4.52
+1103,Michael McCormick,4.5
+1107,Tamar Herzog,
+1108,Fredrik Logevall,4.35
+1110,Aaron Bekemeyer,4.47
+1112,Alison Frank Johnson,5.0
+1113,Serhii Plokhii,4.67
+1114,Terry Martin,4.14
+1117,James Hankins,4.33
+1118,Peter Gordon,4.56
+1120,Annette Gordon-Reed,4.0
+1122,Tamar Herzog,4.29
+1134,Jane Kamensky,4.44
+1135,Jesse Howell,3.91
+1136,Cemal Kafadar,4.27
+1137,Emmanuel Akyeampong,4.78
+1138,Maya Jasanoff,
+1143,Arunabh Ghosh,5.0
+1144,George Aumoithe,3.75
+1148,Terry Martin,4.2
+1149,Michael McCormick,4.8
+1150,Ann Blair,4.82
+1150,Hannah Marcus,4.82
+1151,James Hankins,4.43
+1151,Eric Nelson,4.43
+1152,Paulina Alberto,4.75
+1152,Alejandro de la Fuente,4.75
+1154,Joyce Chaplin,5.0
+1155,Arunabh Ghosh,4.0
+1155,Emma Rothschild,
+1156,Rosie Bsheer,4.75
+1169,Karen Huang,4.9
+1171,Angela Allan,4.55
+1172,Yan Slobodkin,
+1173,Vikrant Dadawala,4.92
+1174,Hannah Waits,5.0
+1176,Rachel Kirby,4.67
+1177,Nicholas Bloom,4.25
+1178,Emily Gowen,4.67
+1179,Morgan Day Frank,4.33
+1180,Emmet von Stackelberg,3.44
+1181,Briana Smith,
+1182,Jules Riegel,3.8
+1183,Adhy Kim,4.86
+1184,Lila Knolle,4.33
+1190,Lilly Havstad,5.0
+1192,Mandy Izadi,
+1192,Alan Niles,4.33
+1040,Carrie Lambert-Beatty,
+1053,Jinah Kim,3.93
+1054,Lisa Haber-Thomson,4.8
+1056,,
+1058,,
+1060,Carrie Lambert-Beatty,4.0
+1032,Ioli Kalavrezou,4.6
+1034,Joseph Koerner,4.18
+1034,Felipe Pereda,4.18
+1035,Suzanne Blier,3.64
+1036,Patricio del Real,4.83
+1041,Eugene Wang,4.8
+1043,Suzanne Blier,4.0
+1045,Thomas Cummins,4.85
+1046,Gulru Necipoglu-Kafadar,4.88
+1047,Seth Estrin,5.0
+1048,Christina Maranci,5.0
+1050,Maria Gough,4.5
+1052,Felipe Pereda,4.5
+1220,Erik Baker,4.28
+1220,Rebecca Lemov,4.28
+1220,Leslie-William Robinson,4.28
+1220,Simon Torracinta,4.28
+1220,Spencer Weinreich,4.28
+1222,Erik Baker,4.73
+1222,Erik Baker,4.3
+1194,Hannah Marcus,4.39
+1194,Benjamin Wilson,
+1195,Spencer Weinreich,4.91
+1196,Eram Alam,4.89
+1198,Evelynn Hammonds,
+1201,Simon Torracinta,
+1202,Elizabeth Lunbeck,4.85
+1203,Matthew Hersch,
+1205,Victor Seow,
+1207,Alex Csiszar,4.92
+1210,Naomi Oreskes,4.59
+1211,Ann Blair,4.82
+1211,Hannah Marcus,4.82
+1212,Peter Galison,4.8
+1213,Evelynn Hammonds,3.4
+1216,Sheila Jasanoff,
+1217,Rebecca Lemov,4.64
+1217,Victor Seow,4.64
+1090,Julie Lawrence,4.5
+1068,Abigail Desmond,4.73
+1070,Julie Lawrence,4.18
+1071,Jennifer Devereaux,4.15
+1072,Ali Yawar,4.67
+1076,Joyce Benenson,4.47
+1081,Eadaoin Harney,4.42
+1082,Erin Hecht,5.0
+1083,Daniel Green,4.25
+1084,Bridget Alex,4.91
+1085,Christine Webb,4.67
+1087,Rachel Carmody,4.38
+1226,David Elmer,4.14
+1226,Stephen Greenblatt,4.14
+1226,Emily Greenwood,4.14
+1226,Samantha Matherne,4.14
+1226,Louis Menand,4.14
+1226,Namwali Serpell,4.14
+1228,Vishal Khandelwal,4.17
+1228,Ewa Lajer-Burcharth,
+1228,Yukio Lippit,4.17
+1228,Felipe Pereda,4.17
+1228,Jennifer L. Roberts,4.17
+1229,Lauren Kaminsky,5.0
+1229,Robin Kelsey,5.0
+1302,Andrew Bottoms,4.89
+1306,Nozomi Tomita,4.0
+1309,Kathryn Franich,4.67
+1310,Yagmur Sag-Parvardeh,3.67
+1292,Tanya Bondarenko,3.54
+1294,Kathryn Franich,4.86
+1295,Jonathan Bobaljik,
+1298,Jeremy Rau,4.64
+1299,Kathryn Franich,3.6
+1301,Michael Flier,4.75
+1373,,3.8
+1373,,
+1373,Michael Nathanson,3.5
+1373,,
+1373,Kate Penner,4.83
+1373,Janet Chen,4.44
+1373,,
+1373,,3.27
+1373,Michael Nathanson,3.27
+1373,,3.88
+1373,Matthew Cavallo,3.38
+1373,,3.38
+1373,,4.0
+1373,Matthew Demers,4.0
+1373,,
+1373,,3.6
+1373,,
+1373,Michael Nathanson,
+1373,,4.5
+1373,Matthew Demers,
+1337,Brendan Kelly,3.68
+1337,,3.6
+1337,,2.89
+1337,Mario Stipcic,2.89
+1337,,3.38
+1337,,3.27
+1337,Mario Stipcic,3.27
+1337,,3.53
+1337,,3.54
+1337,Eva Politou,3.54
+1337,Hannah Constantin,
+1337,,3.4
+1337,,
+1337,Hannah Constantin,3.8
+1337,,3.8
+1339,,3.38
+1339,Erica Dinkins,3.38
+1339,John Cain,3.89
+1339,,3.56
+1339,Erica Dinkins,
+1339,,3.94
+1339,Matthew Cavallo,3.94
+1339,,3.12
+1339,Oliver Knill,
+1339,,2.69
+1339,Austin Conner,
+1339,,3.33
+1339,,
+1339,Jonier Amaral Antunes,3.67
+1339,,3.67
+1339,Jonier Amaral Antunes,4.0
+1339,,
+1335,Roderic Guigo Corominas,
+1336,John Cain,
+1344,Amadeus Martin,3.81
+1344,,3.81
+1344,,
+1344,Fanhui Xu,3.94
+1344,Roderic Guigo Corominas,4.08
+1344,,4.08
+1344,,3.68
+1344,Fanhui Xu,3.68
+1344,,3.5
+1344,Philip Wood,3.72
+1344,Philip Wood,4.0
+1344,Max Weinreich,3.67
+1344,,3.67
+1344,Amadeus Martin,4.18
+1344,,4.18
+1344,,
+1344,Eva Politou,3.33
+1344,,
+1344,,
+1344,Fanhui Xu,4.0
+1344,,3.11
+1346,,2.93
+1346,Jill Guerra,
+1346,Jill Guerra,3.74
+1346,,3.9
+1352,Clifford Taubes,3.4
+1361,Christopher Eur,4.66
+1368,Joseph Harris,4.61
+1370,Clifford Taubes,4.0
+1372,,4.2
+1313,Benjamin Gammage,4.06
+1315,Salim Tayou,3.4
+1317,Horng-Tzer Yau,3.33
+1318,Paul Bamberg (he),3.33
+1321,Noam Elkies,2.8
+1323,Mark Kisin,3.5
+1326,Denis Auroux,
+1328,Puskar Mondal,4.15
+1332,Colin Defant,
+1342,Curtis McMullen,4.93
+1348,Yuriy Drozd,2.86
+1350,Melanie Wood,
+1354,Keeley Hoek,3.75
+1354,Fan Ye,3.75
+1355,Hana Jia Kong,3.94
+1357,Mihnea Popa,
+1359,Martin Nowak,4.32
+1363,Dan Freed,4.33
+1366,Michael Hopkins,4.83
+1367,Stephen McKean,4.75
+174,Cristina Aguayo-Mazzucato,3.05
+174,Ryoji Amamoto,3.05
+174,,3.05
+174,,3.05
+174,John Clohessy,3.05
+174,Stephen Elledge,3.05
+174,Alejandro Gutierrez,3.05
+174,Maria Gutierrez-Arcelus,3.05
+174,Timothy Hla,3.05
+174,William Hwang,
+174,Nada Kalaany,3.05
+174,Naama Kanarek,3.05
+174,Julie-Aurore Losman,3.05
+174,Marjorie Oettinger,3.05
+174,Nilay Sethi,3.05
+174,Richard Sherwood,3.05
+174,Marcos Simoes-Costa,3.05
+174,,3.05
+174,Alexander Soukas,
+174,Jessalyn Ubellacker,
+174,David Van Vactor,3.05
+174,Marc Wein,3.05
+174,Xu Zhou,3.05
+175,Cristina Aguayo-Mazzucato,
+175,Pratiti Bandopadhayay,
+175,Charles Burns,3.47
+175,Caroline Burns,3.47
+175,Hong Chen,
+175,,3.47
+175,April Craft,3.47
+175,Christian Dibble,
+175,Matthew Harris,3.47
+175,Christina Jacobsen,3.47
+175,Jessica Lehoczky,3.47
+175,Allegra Petti,
+175,William Pu,3.47
+175,,3.47
+175,,3.47
+175,,3.47
+175,,3.47
+175,,3.47
+176,Karen Adelman,3.51
+176,Alan Brown,
+176,Stirling Churchman,
+176,Joseph Loparo,3.51
+176,Ralph Scully,3.51
+176,Frank Slack,3.51
+178,Vidyasagar Koduri,4.77
+178,Srinivas Viswanathan,4.77
+179,Stan Finkelstein,3.83
+179,Peter Sorger,3.83
+203,Michael Baym,4.33
+203,Heng Li,4.33
+203,Shamil Sunyaev,4.33
+203,Cheng-Zhong Zhang,
+213,Tari Tan,4.67
+888,Tom Bernhardt,
+888,Jenna Galloway,3.91
+888,Max Heiman,3.91
+888,Matthew Warman,3.91
+888,Fred Winston,
+1065,Connie Cepko,4.25
+1232,Frederick Alt,3.95
+1232,Facundo Batista,3.95
+1232,Michael Carroll,
+1232,Stephanie Dougan,3.95
+1232,Nir Hacohen,
+1232,Jonathan Kagan,3.95
+1232,Vijay Kuchroo,3.95
+1232,Judy Lieberman,3.95
+1232,Andrew Luster,3.95
+1232,Lydia Lynch,3.95
+1232,Thorsten Mempel,3.95
+1232,Shiv Pillai,3.95
+1232,Arlene Sharpe,3.95
+1232,Amy Wagers,3.95
+1232,Kai Wucherpfennig,3.95
+1232,Ulrich von Andrian,
+1237,Judith Agudo,5.0
+1237,Stephanie Dougan,4.0
+1237,,4.0
+1237,Kai Wucherpfennig,4.0
+1415,Zheng-Yi Chen,3.92
+1415,George Church,3.92
+1415,Martin Dorf,3.92
+1415,Michela Fagiolini,3.92
+1415,Ethan Garner,3.92
+1415,Neena Haider,3.92
+1415,Marie Hollenhorst,3.92
+1415,Shingo Kajimura,3.92
+1415,Jessica Lehoczky,3.92
+1415,Mary Loeken,3.92
+1415,Amar Majmundar,3.92
+1415,Kari Nadeau,3.92
+1415,Johan Paulsson,3.92
+1415,Mohammad Rashidian,
+1415,Silvi Rouskin,3.92
+1415,Jean Schaffer,3.92
+1415,Rosalind Segal,3.92
+1415,,3.92
+1416,Markus Basan,3.41
+1416,Roger Belizaire,3.41
+1416,Vassiliki Boussiotis,3.41
+1416,Jeffrey Cheng,3.41
+1416,Ulf Dettmer,3.41
+1416,,
+1416,Nils Gehlenborg,3.41
+1416,,3.41
+1416,,
+1416,Rosalind Segal,3.41
+1416,,
+1416,Suzanne Walker,3.41
+1509,Eleanor Batty,4.75
+1510,Bruce Bean,3.0
+1510,Richard Born,3.0
+1510,Chinfei Chen,3.0
+1510,Lisa Goodrich,3.0
+1510,Pascal Kaeser,3.0
+1510,Joshua Kaplan,3.0
+1510,Wade Regehr,
+1510,Thomas Schwarz,3.0
+1510,Beth Stevens,3.0
+1510,Gary Yellen,3.0
+1512,Gabriel Kreiman,5.0
+1779,Sunil Puria,4.0
+1982,Jonathan Abraham,5.0
+1982,Philip Kranzusch,5.0
+1984,Todd Allen,4.0
+1984,Smita Gopinath,4.0
+1984,Max Nibert,4.0
+1984,Silvi Rouskin,5.0
+1418,Brian FitzGerald,5.0
+1420,Sean Gilsdorf,
+1375,Anne Dymek,
+1380,Nancy Etcoff,4.5
+1381,Lisa Wong,4.83
+1287,Rachelle Gaudet,3.7
+1287,Daniel Kahne,3.7
+1287,Rebecca LaCroix,3.7
+1287,Sien Verschave,
+1290,Doeke Hekstra,4.41
+1290,Kara McKinley,4.41
+1290,Andrew Murray,4.41
+1290,Emma Nagy,4.41
+1290,Benjamin de Bivort,4.41
+1285,Alain Viel,4.63
+1405,Vladimir Denic,3.47
+1405,Dominic Mao,3.47
+1405,Emma Nagy,3.47
+1406,Michele Markstein,3.75
+1406,Alain Viel,3.75
+1410,Jeff Lichtman,4.12
+1410,Katie Quast,4.12
+1411,Monique Brewster,4.75
+1411,Dominic Mao,4.75
+1413,Monique Brewster,4.53
+1413,Dominic Mao,4.53
+1384,Alain Viel,4.0
+1387,Elena Rivas,3.57
+1390,Richard Losick,4.48
+1391,Shiv Pillai,4.41
+1393,Nicholas Bellono,
+1399,,3.75
+1399,Venkatesh Murthy,3.75
+1399,Joshua Sanes,3.75
+1401,Nancy Kleckner,4.29
+1475,Liam Hynes-Tawa,5.0
+1463,Liam Hynes-Tawa,4.26
+1472,Yvette Jackson,3.88
+1434,Federico Cortese,4.73
+1439,Andrew Clark,4.62
+1442,Andrew Clark,4.9
+1446,Andrew Clark,4.76
+1469,Alejandro Madrid-Gonzalez,
+1471,Charrise Barron,4.57
+1473,Toru Momii,4.5
+1474,Alexander Rehding,4.83
+1436,Federico Cortese,4.67
+1436,Yosvany Terry,
+1438,Federico Cortese,5.0
+1444,Michele Duguay,3.8
+1451,Andrew Clark,
+1453,Claire Chase,4.86
+1454,Kate van Orden,4.5
+1455,Jessica Bodner,4.7
+1455,Claire Chase,4.7
+1457,Vijay Iyer,4.7
+1457,Yosvany Terry,4.7
+1458,Jessica Bodner,4.85
+1458,Daniel Chong,4.85
+1458,Ken Hamao,4.85
+1458,Kee-Hyun Kim,
+1462,Anne Shreffler,4.43
+1467,Carolyn Abbate,5.0
+1468,Alejandro Madrid-Gonzalez,4.57
+1470,Yvette Jackson,5.0
+74,,5.0
+76,Andrew Teeter,5.0
+156,Dana Malhas,4.45
+156,Dana Malhas,5.0
+156,Richard Cozzens,4.43
+156,Richard Cozzens,4.75
+159,Amr Madi,4.6
+159,Dana Malhas,4.8
+152,Amr Madi,4.6
+155,Nader Uthman,5.0
+1240,Khaled El-Rouayheb,
+1423,ran bechor,
+1427,Malika Zeghal,4.07
+1428,Mohammad Sagha,4.78
+1431,Mohammad Sagha,4.91
+1477,David Stern,4.14
+1542,Mojtaba Ebrahimian,4.5
+1544,Mojtaba Ebrahimian,4.17
+1540,Nicholas Boylston,5.0
+1976,Meryem Demir,4.6
+1504,Jeff Lichtman,4.12
+1504,Katie Quast,4.12
+1505,,4.83
+1505,,
+1478,Tony Cunningham,4.71
+1478,,4.71
+1478,,4.71
+1480,,4.9
+1480,,4.9
+1480,Vincent Pham,4.9
+1482,,4.5
+1482,Alen Juginovic,
+1482,,
+1484,,
+1484,Kiah Hardcastle,4.89
+1484,,4.89
+1486,,5.0
+1486,Saad Hannan,5.0
+1486,,5.0
+1488,Sara Beach,4.43
+1488,,4.43
+1488,,
+1491,,4.73
+1491,,4.73
+1491,Rasheen Powell,4.73
+1497,Gabriel Kreiman,3.93
+1289,Andrew Biewener,4.23
+1289,George Lauder,4.23
+1289,Daniel Lieberman,4.23
+1289,Jo Matott,4.23
+1514,Ognenka Avramovska,3.83
+1514,Brian Farrell,3.83
+1514,Elena Kramer,3.83
+1514,Ann Pearson,3.83
+1514,Mansi Srivastava,
+1529,Daniel Hartl,3.74
+1529,Robin Hopkins,3.74
+1532,Andrew Berry,4.69
+1533,Andrew Davies,4.0
+1533,Paul Moorcroft,4.0
+1536,Stephanie Pierce,
+1536,Mansi Srivastava,4.25
+1515,Kathleen Pritchett-Corning,
+1516,Elena Kramer,4.43
+1517,Noel Holbrook,3.86
+1518,Scott Edwards,4.08
+1520,Benton Taylor,4.67
+1521,Yun Zhang,4.14
+1522,Naomi Pierce,4.57
+1528,Benjamin de Bivort,4.5
+1583,Bernhard Nickel,4.37
+1584,Mariana Noe,4.67
+1552,Jeffrey Behrends,4.17
+1570,Seth Robertson,4.1
+1586,,
+1586,Yuan Tian,5.0
+1586,,3.71
+1586,Smriti Khanal,3.71
+1547,Seth Robertson,4.62
+1548,Alison Simmons,4.8
+1549,Jeffrey McDonough,4.5
+1549,Alison Simmons,4.5
+1553,W. Hugh Woodin,3.55
+1557,Parimal Patil,4.4
+1562,Selim Berker,4.68
+1563,Mathias Risse,
+1564,Peter Koellner,3.14
+1566,Richard Moran,4.5
+1568,Gina Schouten,
+1569,Lucas Stanczyk,4.54
+1571,Remei Capdevila Werning,4.25
+1572,Richard Moran,4.4
+1575,Sean Kelly,
+1576,Eric Maskin,3.75
+1576,Barry Mazur,
+1576,Amartya Sen,3.75
+1578,Quinn White,
+1579,Gina Schouten,4.86
+1593,Gregory Kestin,3.89
+1593,Timothy Milbourne,3.89
+1592,Stephen Adams,3.71
+1592,Louis Deslauriers,3.71
+1592,Kathryn Ledbetter,3.71
+1595,Nathan Melenbrink,4.83
+1604,Stephen Adams,4.27
+1604,David Morin,4.27
+1604,Gregorio Ponti,4.27
+1604,Anna Wang-Holtzen,
+1606,Cora Dvorkin,3.61
+1606,Timothy Milbourne,3.61
+1606,Mara Prentiss,3.61
+1608,Markus Greiner,
+1608,John Huth,
+1608,Gregorio Ponti,3.96
+1608,Anna Wang-Holtzen,3.96
+1610,Stephen Adams,4.65
+1610,Gregorio Ponti,4.65
+1610,Anna Wang-Holtzen,4.65
+1610,Norman Yao,4.65
+1614,Stephen Adams,4.16
+1614,Jacob Barandes,4.16
+1614,Gregorio Ponti,4.16
+1614,Anna Wang-Holtzen,4.16
+1618,Efthimios Kaxiras,4.4
+1618,Logan McCarty,4.4
+1643,Robert Westervelt,4.71
+1598,Masahiro Morii,4.3
+1600,Sonia Paban,4.4
+1602,Arthur Jaffe,4.0
+1613,Melissa Franklin,4.47
+1613,Claire Messud,4.47
+1615,Kathryn Ledbetter,4.33
+1615,Matteo Mitrano,4.33
+1617,Julia Mundy,4.67
+1621,David Abrams,3.83
+1624,Girma Hailu,4.8
+1626,Eslam Khalaf,4.55
+1628,Matthew Schwartz,4.5
+1630,Xi Yin,5.0
+1632,Vinothan Manoharan,4.16
+1633,Subir Sachdev,4.7
+1634,Susanne Yelin,3.4
+1635,Mikhail Lukin,4.24
+1636,Sharad Ramanathan,4.19
+1637,David Nelson,3.14
+1639,Donhee Ham,4.85
+1640,Suzanne Smith,4.87
+1588,Jarvis Chen,4.13
+1588,Issa Dahabreh,4.13
+1653,Daniel Gilbert,4.33
+1653,Nicole Noll,4.33
+1670,Elizabeth Phelps,3.96
+1670,Daniel Schacter,3.96
+1673,Fiery Cushman,4.24
+1712,,4.78
+1712,,4.78
+1715,,4.43
+1715,,4.43
+1716,,4.63
+1716,,4.63
+1720,,5.0
+1720,,5.0
+1722,Rebecca Shingleton,5.0
+1655,Ellen Langer,
+1657,Mayron Pereira Piccolo Ribeiro,
+1661,Tatyana Levari,4.5
+1663,Scott Lukas,4.55
+1665,Alfonso Caramazza,4.07
+1666,Randy Buckner,5.0
+1669,Tomer Ullman,4.62
+1675,Roy Baumeister,
+1678,Ashley Leung,4.14
+1681,Selva Lewin-Bizan,4.25
+1684,Ryan Lundell-Creagh,5.0
+1685,Joshua Greene,5.0
+1688,Shifali Singh,4.74
+1689,Mayron Pereira Piccolo Ribeiro,4.92
+1690,Mark Hatzenbuehler,4.93
+1691,Grace Lin,3.99
+1693,Mina Cikara,4.42
+1696,Patrick Mair,
+1698,Matthew Nock,3.9
+1698,Leah Somerville,
+1699,Patrick Mair,4.85
+1700,Elizabeth Spelke,3.4
+1701,Jesse Snedeker,5.0
+1702,Ashley Thomas,4.67
+1704,Elizabeth Phelps,5.0
+1705,Mark Hatzenbuehler,
+1707,Matthew Nock,2.0
+1709,Michael Norton,4.6
+1711,Ellen Langer,4.83
+1724,Federico Capasso,2.83
+1727,Mikhail Lukin,4.24
+1728,Evelyn Hu,4.14
+1728,Nishant Sule,4.14
+1745,Jie Li,4.4
+1745,Alexander Zahlten,
+1740,Courtney Lamberth,4.86
+1731,Benjamin Dunning,4.71
+1733,Catherine Brekus,4.5
+1737,David Lamberth,3.6
+1739,Mayra Rivera,4.86
+703,,4.58
+703,,4.67
+703,,
+703,,4.17
+705,,4.6
+711,,4.8
+713,,4.08
+713,,4.2
+713,,4.5
+715,,4.2
+715,,4.64
+715,,4.17
+717,,4.2
+717,,
+719,Karen Turman,4.43
+719,Karen Turman,4.71
+722,Claire-Marie Brisson,4.8
+724,Annabel Kim,4.84
+707,Matthew Rodriguez,
+708,Janet Beizer,
+709,Matthew Rodriguez,4.5
+1242,Elisa Tragni Maloney,5.0
+1242,,
+1242,,4.71
+1242,,4.71
+1242,,4.7
+1242,,
+1244,,4.8
+1244,,4.8
+1249,,4.7
+1249,,
+1247,Ambrogio Camozzi Pistoja,4.95
+1248,Francesco Erspamer,4.17
+1645,,
+1646,,4.75
+1646,,4.5
+1650,,5.0
+1855,,
+1855,,4.22
+1855,,3.25
+1855,,4.25
+1855,,4.25
+1855,,4.3
+1855,,4.5
+1855,,4.17
+1855,,4.33
+1855,,
+1857,,
+1857,,4.43
+1857,,5.0
+1857,,4.0
+1857,,4.71
+1857,,4.11
+1857,,4.6
+1857,Ruyman Perez Ramos,4.6
+1857,,
+1862,Xiomara Feliberty Casiano,5.0
+1866,,4.0
+1866,,4.17
+1866,,3.9
+1866,,
+1866,,3.17
+1866,,3.63
+1866,,4.0
+1866,,3.0
+1870,,4.63
+1870,,4.56
+1870,,4.4
+1870,Johanna Liander,4.33
+1870,,
+1872,,4.83
+1872,,4.6
+1872,,4.83
+1872,,4.83
+1872,,4.44
+1874,Maria Parra-Velasco,5.0
+1874,Maria Parra-Velasco,5.0
+1875,,5.0
+1875,Adriana Gutierrez,4.5
+1875,,4.86
+1875,,5.0
+1875,,4.71
+1877,Maria Parra-Velasco,
+1880,Adriana Gutierrez,
+1880,Adriana Gutierrez,5.0
+1880,Adriana Gutierrez,4.89
+1882,Luis Giron Negron,4.0
+1884,Daniel Aguirre-Oteiza,5.0
+1886,Johanna Liander,4.64
+1860,Alejandra Vela Martinez,4.61
+1864,Doris Sommer,
+1746,Alexandra Vacroux,4.5
+1747,Alexandra Vacroux,4.6
+1752,Dmitrii Pastushenkov,4.83
+1753,Steven Clancy,5.0
+1753,Jenya Mironava,5.0
+1749,Dmitrii Pastushenkov,4.67
+1749,Liya Zalaltdinova,4.67
+1749,Dmitrii Pastushenkov,4.4
+1749,Liya Zalaltdinova,4.4
+1751,Liya Zalaltdinova,4.67
+1783,Nariman Skakov,4.0
+1787,Aleksandra Kremer,4.5
+1788,Daria Khitrova,4.67
+1790,David Armitage,4.35
+1790,Bo-Mi Choi,
+1790,Charles Clavey,4.35
+1790,Shterna Friedman,4.35
+1790,Jonathan Hansen,
+1790,John Harpham,4.35
+1790,,4.35
+1790,Jonathan Masin-Peters,4.35
+1790,Vatsal Naresh,
+1790,Lowry Pressly,
+1790,Nicolas Prevelakis,4.35
+1790,Renugan Raidoo,4.35
+1790,Tracey Rosen,
+1790,Rosemarie Wagner,
+1790,William Whitham,4.35
+1790,Rob Willison,4.35
+1792,Matthew Reichert,4.4
+1795,Nicole Simon,3.83
+1798,Kiku Adatto,4.88
+1799,Nicolas Prevelakis,4.67
+1800,Jonathan Hansen,5.0
+1801,Bo-Mi Choi,4.71
+1802,Jamie Martin,5.0
+1804,Tracey Rosen,4.75
+1807,William Whitham,5.0
+1808,Adaner Usmani,5.0
+1850,Shai Dromi,4.3
+1852,Caitlin Daniel,3.83
+1853,Isabel Jijon,4.88
+1854,Cat O'Donnell,5.0
+1814,Danilo Mandic,4.27
+1815,Christina Cross,3.71
+1819,Monique Ouimette,3.1
+1820,Thomas Wooten,
+1822,Ira Jackson,4.86
+1822,,4.86
+1824,Danilo Mandic,4.22
+1827,Isabel Jijon,4.6
+1828,Jeffrey Swindle,2.73
+1830,Flavia Perea,
+1831,Gregory Narr,2.17
+1834,Ya-Wen Lei,4.39
+1835,Danilo Mandic,4.63
+1837,Thomas Wooten,
+1841,Mary Waters,4.71
+1842,Xiang Zhou,4.0
+1847,Christina Cross,3.83
+1849,Deirdre Bloome,5.0
+725,Lady Aileen Orsal,4.91
+1091,Richard Delacy,4.75
+1754,Patrick Cummins,4.83
+1756,Patrick Cummins,5.0
+1758,Martha Selby,
+1934,Jonathan Ripley,5.0
+1974,Leonard van der Kuijp,
+1887,Kelly McConville,4.2
+1887,Julie Vu,4.2
+1889,Julie Vu,4.67
+1889,James Xenakis,4.67
+1891,Kevin A. Rader,3.92
+1893,Pavlos Protopapas,
+1893,Kevin A. Rader,4.14
+1895,Joseph Blitzstein,4.11
+1900,James Xenakis,4.22
+1903,Luke Miratrix,4.29
+1906,Lucas Janson,3.9
+1906,Sham Kakade,3.9
+1907,Alex Young,4.82
+1909,Xiao-li Meng,3.22
+1911,Joseph Blitzstein,4.59
+1912,Lucas Janson,4.46
+1917,Jun Liu,
+1918,Samuel Kou,4.38
+1920,Tracy Ke,4.62
+1921,Neil Shephard,3.76
+1922,Kosuke Imai,4.08
+1925,Tracy Ke,3.0
+1925,Subhabrata Sen,5.0
+1927,Kelly McConville,4.4
+1927,Mark Sellke,4.4
+1927,James Xenakis,4.4
+1929,Morgane Austern,4.0
+1761,William Anderson,4.02
+1761,Lauren Sullivan,4.02
+1778,Amie Holmes,4.38
+1762,Jessica Whited,4.71
+1766,Ya-chieh Hsu,5.0
+1769,Fei Chen,5.0
+1771,Ruth Franklin,4.46
+1773,Amy Wagers,4.81
+1774,Lee Rubin,4.53
+1775,Mark Fishman,4.62
+1775,Douglas Melton,
+1775,Julie Park,4.62
+1776,Mark Fishman,4.5
+1776,Douglas Melton,4.5
+1776,Julie Park,4.5
+1933,Ashwini Jambhekar,4.25
+1933,Galit Lahav,4.25
+1933,Jennifer Oyler-Yaniv,4.25
+208,Alain Viel,
+1973,Sam Marks,4.75
+1969,Morgan Green,4.33
+1969,Sam Marks,4.33
+1972,James Stanley,4.8
+1972,Phillip Howze,2.6
+1936,Marcus Stern,4.5
+1939,Erika Bailey,
+1941,Remo Airaldi,4.83
+1944,Kate Brehm,4.75
+1948,Stevie Walker-Webb,2.3
+1949,Ana Harmon,
+1950,Jeffrey Page,4.3
+1951,Jessie Stinnett,4.92
+1954,Julia Smeliansky,4.38
+1955,Jeff Adelberg,4.75
+1958,Stew Stewart,4.38
+1959,Tania Bruguera,4.67
+1960,Ju Yon Kim,4.86
+1963,Debra Levine,4.67
+1964,Brisa Areli Munoz,4.8
+1966,Tania Bruguera,3.57
+1967,Ryan McKittrick,5.0
+1967,Diane Paulus,
+1998,Linda Schlossberg,5.0
+1985,Michael Bronski,4.6
+1986,Jung Choi,4.63
+1987,Clarisse Wells,4.0
+1988,Imani Perry,4.15
+1990,Nicole Noll,4.75
+1993,Moises Lino e Silva,4.67
+1994,C. Riley Snorton,4.44
+1995,Moises Lino e Silva,4.0
+1996,C. Riley Snorton,4.89
